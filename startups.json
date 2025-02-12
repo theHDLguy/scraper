@@ -1,0 +1,5002 @@
+[
+    {
+        "name": "Mentra",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Building the open source smart glasses operating system.",
+        "tags": "Consumer, Virtual and Augmented Reality",
+        "link": "https://www.ycombinator.com/companies/mentra"
+    },
+    {
+        "name": "BlindPay",
+        "location": "",
+        "year": "W25",
+        "description": "Stablecoin API for global payments",
+        "tags": "Fintech, Payments",
+        "link": "https://www.ycombinator.com/companies/blindpay"
+    },
+    {
+        "name": "Vantel",
+        "location": "Stockholm, Stockholm County, Sweden",
+        "year": "W25",
+        "description": "Empowering commercial insurance brokers with AI",
+        "tags": "Fintech, Insurance",
+        "link": "https://www.ycombinator.com/companies/vantel"
+    },
+    {
+        "name": "Fira",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Financial research assistant for investment firms",
+        "tags": "B2B, Finance and Accounting",
+        "link": "https://www.ycombinator.com/companies/fira"
+    },
+    {
+        "name": "assistant-ui",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Open Source Typescript/React Library for AI Chat",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/assistant-ui"
+    },
+    {
+        "name": "Artifact",
+        "location": "Atlanta, GA, USA",
+        "year": "W25",
+        "description": "A modern workspace for electrical design",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/artifact-2"
+    },
+    {
+        "name": "Axal",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Untangle Your Legacy Monolith",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/axal"
+    },
+    {
+        "name": "Dexterity",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Intelligent data collection.",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/dexterity"
+    },
+    {
+        "name": "TrainLoop",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Fine-tune reasoning models",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/trainloop"
+    },
+    {
+        "name": "Tally",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI agents for accounting firms",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/tally-2"
+    },
+    {
+        "name": "Cedar",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI automating intake calls and pre-litigation workflows for law firms.",
+        "tags": "B2B, Legal",
+        "link": "https://www.ycombinator.com/companies/cedar"
+    },
+    {
+        "name": "Browser Use",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Open Source Web Agents",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/browser-use"
+    },
+    {
+        "name": "Ergo",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Make Your Existing CRM Autonomous⚡",
+        "tags": "B2B, Sales",
+        "link": "https://www.ycombinator.com/companies/ergo"
+    },
+    {
+        "name": "CopyCat",
+        "location": "Seattle, WA, USA",
+        "year": "W25",
+        "description": "Screen recordings to automated workflows.",
+        "tags": "B2B, Productivity",
+        "link": "https://www.ycombinator.com/companies/copycat"
+    },
+    {
+        "name": "Pig",
+        "location": "",
+        "year": "W25",
+        "description": "An API for automating Windows apps with AI",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/pig"
+    },
+    {
+        "name": "TensorPool",
+        "location": "",
+        "year": "W25",
+        "description": "The easiest way to execute ML jobs on the cloud",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/tensorpool"
+    },
+    {
+        "name": "Dalus",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI-powered hardware system design software",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/dalus"
+    },
+    {
+        "name": "Roark",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Replay, Analyze, and Improve Your Voice AI",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/roark"
+    },
+    {
+        "name": "Spott",
+        "location": "",
+        "year": "W25",
+        "description": "AI for Executive Search",
+        "tags": "B2B, Recruiting and Talent",
+        "link": "https://www.ycombinator.com/companies/spott"
+    },
+    {
+        "name": "Demeter",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI Back Office Solution for Private Investment Firms",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/demeter"
+    },
+    {
+        "name": "Wildcard",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Making APIs 'just work' for AI Agents",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/wildcard"
+    },
+    {
+        "name": "Permitify",
+        "location": "",
+        "year": "W25",
+        "description": "AI co-pilot for building plan review and building code compliance",
+        "tags": "Real Estate and Construction, Construction",
+        "link": "https://www.ycombinator.com/companies/permitify"
+    },
+    {
+        "name": "Reditus Space",
+        "location": "Atlanta, GA, USA",
+        "year": "W25",
+        "description": "Reusable Satellites for zero-g manufacturing",
+        "tags": "Industrials, Aviation and Space",
+        "link": "https://www.ycombinator.com/companies/reditus-space"
+    },
+    {
+        "name": "Pinch",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Take video calls and host webinars in any language",
+        "tags": "B2B, Productivity",
+        "link": "https://www.ycombinator.com/companies/pinch"
+    },
+    {
+        "name": "Retrofit",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "A vintage marketplace powered by AI",
+        "tags": "Consumer, Apparel and Cosmetics",
+        "link": "https://www.ycombinator.com/companies/retrofit"
+    },
+    {
+        "name": "Archon",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "We help software companies sell to government.",
+        "tags": "Government",
+        "link": "https://www.ycombinator.com/companies/archon"
+    },
+    {
+        "name": "AfterQuery",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "High-quality AI starts with high-quality human data",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/afterquery"
+    },
+    {
+        "name": "Misprint",
+        "location": "",
+        "year": "W25",
+        "description": "Misprint is a data-driven marketplace for graded collectibles",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/misprint"
+    },
+    {
+        "name": "FuseAI",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "The world's first Customer General Intelligence platform.",
+        "tags": "B2B, Sales",
+        "link": "https://www.ycombinator.com/companies/fuseai"
+    },
+    {
+        "name": "TripleZip",
+        "location": "New York, NY, USA",
+        "year": "W25",
+        "description": "Automating CRE accounting with AI",
+        "tags": "Real Estate and Construction",
+        "link": "https://www.ycombinator.com/companies/triplezip"
+    },
+    {
+        "name": "Sennu AI",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI Sales Agent for Tech Consulting Firms",
+        "tags": "B2B, Sales",
+        "link": "https://www.ycombinator.com/companies/sennu-ai"
+    },
+    {
+        "name": "Orbital Operations",
+        "location": "Huntington Beach, CA, USA",
+        "year": "W25",
+        "description": "Moving customers in space with a reusable, high thrust vehicle",
+        "tags": "Industrials, Aviation and Space",
+        "link": "https://www.ycombinator.com/companies/orbital-operations"
+    },
+    {
+        "name": "Mesh",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Automate outsourced accounting work with AI",
+        "tags": "B2B, Finance and Accounting",
+        "link": "https://www.ycombinator.com/companies/mesh-2"
+    },
+    {
+        "name": "Outlit",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI for Enterprise Deal Making",
+        "tags": "B2B, Sales",
+        "link": "https://www.ycombinator.com/companies/outlit"
+    },
+    {
+        "name": "Calltree AI",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI operations analyst for call center workflows",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/calltree-ai"
+    },
+    {
+        "name": "Nitrode",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI-assisted game development platform",
+        "tags": "Consumer, Gaming",
+        "link": "https://www.ycombinator.com/companies/nitrode"
+    },
+    {
+        "name": "Karsa",
+        "location": "New York, NY, USA",
+        "year": "W25",
+        "description": "The global dollar account.",
+        "tags": "Fintech",
+        "link": "https://www.ycombinator.com/companies/karsa"
+    },
+    {
+        "name": "Confident AI",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "The DeepEval LLM Evaluation Platform",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/confident-ai"
+    },
+    {
+        "name": "Riviera",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI Voice Agents for Hotels",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/riviera"
+    },
+    {
+        "name": "Waypoint Transit",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "We automate urban planning so cities can build cheaper and faster.",
+        "tags": "Government",
+        "link": "https://www.ycombinator.com/companies/waypoint-transit"
+    },
+    {
+        "name": "ReJot",
+        "location": "Amsterdam, NH, Netherlands",
+        "year": "W25",
+        "description": "Sync engine to enable reactive backends for cross-team integrations",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/rejot"
+    },
+    {
+        "name": "General Trajectory",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Physical AI for industrial robots.",
+        "tags": "B2B, Supply Chain and Logistics",
+        "link": "https://www.ycombinator.com/companies/general-trajectory"
+    },
+    {
+        "name": "Trata",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Database of investment research from anonymous hedge fund analysts",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/trata"
+    },
+    {
+        "name": "Lucidic AI",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "See Your Agent's Mind at Work",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/lucidic-ai"
+    },
+    {
+        "name": "G LNK",
+        "location": "New York, NY, USA",
+        "year": "W25",
+        "description": "Simplifying Collaboration for Healthcare Organizations & Professionals",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/g-lnk"
+    },
+    {
+        "name": "AthenaHQ",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Get Your Brand Discovered on ChatGPT.",
+        "tags": "B2B, Marketing",
+        "link": "https://www.ycombinator.com/companies/athenahq"
+    },
+    {
+        "name": "Cenote",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Automate back office tasks for medical clinics",
+        "tags": "Healthcare, Healthcare Services",
+        "link": "https://www.ycombinator.com/companies/cenote"
+    },
+    {
+        "name": "Lucid",
+        "location": "Berkeley, CA, USA",
+        "year": "W25",
+        "description": "Fast world models for generative simulations",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/lucid"
+    },
+    {
+        "name": "Macadamia",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI Copilot for Mechanical Engineers",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/macadamia"
+    },
+    {
+        "name": "Asteroid",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Mission Critical Browser Agents at Scale",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/asteroid"
+    },
+    {
+        "name": "Gale",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Stripe Atlas for immigration.",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/gale"
+    },
+    {
+        "name": "Pave Robotics",
+        "location": "San Jose, CA, USA",
+        "year": "W25",
+        "description": "Robots that repair roads",
+        "tags": "Industrials, Manufacturing and Robotics",
+        "link": "https://www.ycombinator.com/companies/pave-robotics"
+    },
+    {
+        "name": "finbar",
+        "location": "London, England, United Kingdom",
+        "year": "W25",
+        "description": "AI-powered financial data & analysis",
+        "tags": "Fintech",
+        "link": "https://www.ycombinator.com/companies/finbar"
+    },
+    {
+        "name": "Cuckoo Labs",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI interpreter for global sales, marketing, and sales.",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/cuckoo-labs"
+    },
+    {
+        "name": "Mecha Health",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Trustworthy medical image reporting with AI.",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/mecha-health"
+    },
+    {
+        "name": "GradeWiz",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI Teaching Assistant that grades student work and gives feedback.",
+        "tags": "Education",
+        "link": "https://www.ycombinator.com/companies/gradewiz"
+    },
+    {
+        "name": "HealthKey",
+        "location": "Austin, TX, USA",
+        "year": "W25",
+        "description": "AI-powered Patient Identification for Clinical Trial Research Sites",
+        "tags": "Healthcare, Healthcare IT",
+        "link": "https://www.ycombinator.com/companies/healthkey"
+    },
+    {
+        "name": "Operand",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI that Runs E-Commerce Brands",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/operand"
+    },
+    {
+        "name": "Gulp",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Automating build, test, and deploy for real-time data pipelines",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/gulp"
+    },
+    {
+        "name": "Oki",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI Insights to auto track projects and boost engineering productivity",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/oki"
+    },
+    {
+        "name": "ZeroEntropy",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "High accuracy search API over unstructured data.",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/zeroentropy"
+    },
+    {
+        "name": "Amby Health",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI copilot for Emergency Medical Services",
+        "tags": "Healthcare, Healthcare IT",
+        "link": "https://www.ycombinator.com/companies/amby-health"
+    },
+    {
+        "name": "Adam",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI Powered CAD Design",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/adam"
+    },
+    {
+        "name": "Sift Dev",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Your Logs, Finally Free",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/sift-dev"
+    },
+    {
+        "name": "Weave",
+        "location": "",
+        "year": "W25",
+        "description": "Weave uses ML to quantify engineering work.",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/weave-3"
+    },
+    {
+        "name": "Caseflood.ai",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI admin/operations staff for law firms",
+        "tags": "B2B, Legal",
+        "link": "https://www.ycombinator.com/companies/caseflood-ai"
+    },
+    {
+        "name": "Vora AI",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI agents for hiring teams",
+        "tags": "B2B, Recruiting and Talent",
+        "link": "https://www.ycombinator.com/companies/vora-ai"
+    },
+    {
+        "name": "a0.dev",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "We make apps with AI.",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/a0-dev"
+    },
+    {
+        "name": "Tessa",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI coworkers with human-like skill acquisition and mastery",
+        "tags": "B2B, Productivity",
+        "link": "https://www.ycombinator.com/companies/tessa"
+    },
+    {
+        "name": "Rocketable",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "The AI maximalist software holding company",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/rocketable"
+    },
+    {
+        "name": "superglue",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "a proxy server for automated data transformation",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/superglue"
+    },
+    {
+        "name": "Conntour",
+        "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+        "year": "W25",
+        "description": "Monitor & search security camera footage with natural language.",
+        "tags": "B2B, Security",
+        "link": "https://www.ycombinator.com/companies/conntour"
+    },
+    {
+        "name": "Promptless",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Automatic updates for your customer-facing docs",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/promptless"
+    },
+    {
+        "name": "Scout",
+        "location": "New York, NY, USA",
+        "year": "W25",
+        "description": "AI-powered student information system for K-12 schools",
+        "tags": "Education",
+        "link": "https://www.ycombinator.com/companies/scout-4"
+    },
+    {
+        "name": "Subtrace",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Resolve production issues in minutes, not months",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/subtrace"
+    },
+    {
+        "name": "Karoo",
+        "location": "Toronto, ON, Canada",
+        "year": "W25",
+        "description": "Canadian neobank focused on lending",
+        "tags": "Fintech, Consumer Finance",
+        "link": "https://www.ycombinator.com/companies/karoo"
+    },
+    {
+        "name": "Stamp",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "The AI Inbox",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/stamp"
+    },
+    {
+        "name": "Guse",
+        "location": "",
+        "year": "W25",
+        "description": "The first multiplayer AI canvas",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/guse"
+    },
+    {
+        "name": "Axiom",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "The Gateway to DeFi",
+        "tags": "Fintech, Consumer Finance",
+        "link": "https://www.ycombinator.com/companies/axiom"
+    },
+    {
+        "name": "SubImage",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "See your infra from an attacker's perspective",
+        "tags": "B2B, Security",
+        "link": "https://www.ycombinator.com/companies/subimage"
+    },
+    {
+        "name": "Admyral",
+        "location": "",
+        "year": "W25",
+        "description": "AI Agents to Automate Operations for Commercial Real Estate",
+        "tags": "Real Estate and Construction",
+        "link": "https://www.ycombinator.com/companies/admyral"
+    },
+    {
+        "name": "NextByte",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI Recruiting Agent for Screening Technical Candidates",
+        "tags": "B2B, Recruiting and Talent",
+        "link": "https://www.ycombinator.com/companies/nextbyte"
+    },
+    {
+        "name": "Casixty",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Personalized community engagement on Reddit",
+        "tags": "B2B, Marketing",
+        "link": "https://www.ycombinator.com/companies/casixty"
+    },
+    {
+        "name": "Candor",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "We help companies win government funding with AI",
+        "tags": "Government",
+        "link": "https://www.ycombinator.com/companies/candor"
+    },
+    {
+        "name": "Bild AI",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI that understands construction blueprints",
+        "tags": "Real Estate and Construction, Construction",
+        "link": "https://www.ycombinator.com/companies/bild-ai"
+    },
+    {
+        "name": "Trace",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Voice AI Customer Support for Financial Services",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/trace"
+    },
+    {
+        "name": "Revise Robotics",
+        "location": "",
+        "year": "W25",
+        "description": "AI-enabled robots that refurbish hundreds of laptops a day",
+        "tags": "Industrials, Manufacturing and Robotics",
+        "link": "https://www.ycombinator.com/companies/revise-robotics"
+    },
+    {
+        "name": "Edexia",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "AI Teaching Assistant for Grading Papers",
+        "tags": "Education",
+        "link": "https://www.ycombinator.com/companies/edexia"
+    },
+    {
+        "name": "Quantstruct",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Auto-improve & publish technical docs with AI",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/quantstruct"
+    },
+    {
+        "name": "Asha Health",
+        "location": "New York, NY, USA",
+        "year": "F24",
+        "description": "We help medical practices launch their own AI clinic",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/asha-health"
+    },
+    {
+        "name": "Bifrost Orbital",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "24/7 and real-time connectivity for satellites",
+        "tags": "Industrials, Aviation and Space",
+        "link": "https://www.ycombinator.com/companies/bifrost-orbital"
+    },
+    {
+        "name": "HumanLayer",
+        "location": "",
+        "year": "F24",
+        "description": "Human-in-the-Loop for AI Agents",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/humanlayer"
+    },
+    {
+        "name": "Fabricate",
+        "location": "",
+        "year": "F24",
+        "description": "Procurement for Hardware Teams",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/fabricate"
+    },
+    {
+        "name": "Roundabout Technologies",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Software for AI-powered traffic lights",
+        "tags": "Government",
+        "link": "https://www.ycombinator.com/companies/roundabout-technologies"
+    },
+    {
+        "name": "Synth",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "We help AI agents learn from data.",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/synth-3"
+    },
+    {
+        "name": "Canvas",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "AI-Copilot for Customer Success Teams",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/canvas"
+    },
+    {
+        "name": "Ember Copilot",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "The only medical scribe that reduces claim denials by 55%",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/ember-copilot"
+    },
+    {
+        "name": "Relvy AI",
+        "location": "",
+        "year": "F24",
+        "description": "Efficient AI for monitoring production software",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/relvy-ai"
+    },
+    {
+        "name": "Friday",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "An assistant that understands your emails and handles them for you",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/friday"
+    },
+    {
+        "name": "Ryvn",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Deploy, update, and monitor applications in customer clouds / on-prem",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/ryvn"
+    },
+    {
+        "name": "Melder",
+        "location": "New York, NY, USA",
+        "year": "F24",
+        "description": "Automate analysis and biz processes w/ an AI native spreadsheet",
+        "tags": "B2B, Operations",
+        "link": "https://www.ycombinator.com/companies/melder"
+    },
+    {
+        "name": "Fix AI",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "AI agents that navigate websites like real users to find bugs",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/fix-ai"
+    },
+    {
+        "name": "Foundry",
+        "location": "",
+        "year": "F24",
+        "description": "RL Gym for Browser Agents",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/foundry"
+    },
+    {
+        "name": "Forerunner AI",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Copilot for aerospace engineers making rockets, munitions, satellites",
+        "tags": "Industrials, Aviation and Space",
+        "link": "https://www.ycombinator.com/companies/forerunner-ai"
+    },
+    {
+        "name": "OpenClinic",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Digital healthcare clinics that are 99% AI, 1% doctor.",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/openclinic"
+    },
+    {
+        "name": "Bramble",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "The next generation Zillow.",
+        "tags": "Real Estate and Construction, Housing and Real Estate",
+        "link": "https://www.ycombinator.com/companies/bramble"
+    },
+    {
+        "name": "Surge",
+        "location": "",
+        "year": "F24",
+        "description": "Stripe for telephony",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/surge"
+    },
+    {
+        "name": "Sunset",
+        "location": "",
+        "year": "F24",
+        "description": "Find and move money after a death",
+        "tags": "Fintech, Consumer Finance",
+        "link": "https://www.ycombinator.com/companies/sunset"
+    },
+    {
+        "name": "ArchiLabs",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "AI Copilot for Architects",
+        "tags": "Real Estate and Construction, Construction",
+        "link": "https://www.ycombinator.com/companies/archilabs"
+    },
+    {
+        "name": "Metreecs",
+        "location": "",
+        "year": "F24",
+        "description": "AI-powered demand forecasting for retail",
+        "tags": "B2B, Retail",
+        "link": "https://www.ycombinator.com/companies/metreecs"
+    },
+    {
+        "name": "Diffusion Studio",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Next Generation Canva for AI Video Editing in the Browser",
+        "tags": "Consumer, Content",
+        "link": "https://www.ycombinator.com/companies/diffusion-studio"
+    },
+    {
+        "name": "Chorrie",
+        "location": "New York, NY, USA",
+        "year": "F24",
+        "description": "Eliminate medical claim denials & underbilling with AI",
+        "tags": "Healthcare, Healthcare Services",
+        "link": "https://www.ycombinator.com/companies/chorrie"
+    },
+    {
+        "name": "Alex",
+        "location": "",
+        "year": "F24",
+        "description": "The Cursor for Xcode",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/alex"
+    },
+    {
+        "name": "Gander",
+        "location": "New York, NY, USA",
+        "year": "F24",
+        "description": "Automation System for Global Aviation",
+        "tags": "B2B, Operations",
+        "link": "https://www.ycombinator.com/companies/gander"
+    },
+    {
+        "name": "Innate",
+        "location": "Palo Alto, CA, USA",
+        "year": "F24",
+        "description": "Teachable general-purpose robots",
+        "tags": "Consumer, Consumer Electronics",
+        "link": "https://www.ycombinator.com/companies/innate"
+    },
+    {
+        "name": "Scrapybara",
+        "location": "",
+        "year": "F24",
+        "description": "Virtual Desktops for AI Agents",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/scrapybara"
+    },
+    {
+        "name": "Consus",
+        "location": "Remote",
+        "year": "F24",
+        "description": "Your single source of truth for government documents",
+        "tags": "Industrials, Aviation and Space",
+        "link": "https://www.ycombinator.com/companies/consus"
+    },
+    {
+        "name": "CollectWise",
+        "location": "",
+        "year": "F24",
+        "description": "Automating consumer debt collection with AI",
+        "tags": "Fintech",
+        "link": "https://www.ycombinator.com/companies/collectwise"
+    },
+    {
+        "name": "Origami Agents",
+        "location": "",
+        "year": "F24",
+        "description": "Agents that find your perfect customers",
+        "tags": "B2B, Sales",
+        "link": "https://www.ycombinator.com/companies/origami-agents"
+    },
+    {
+        "name": "Fresco",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "AI copilot for construction superintendents",
+        "tags": "Real Estate and Construction, Construction",
+        "link": "https://www.ycombinator.com/companies/fresco"
+    },
+    {
+        "name": "PermitPortal",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "AI Operating System for Pre-construction",
+        "tags": "Real Estate and Construction",
+        "link": "https://www.ycombinator.com/companies/permitportal"
+    },
+    {
+        "name": "Gecko Security",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "The AI Security Engineer to Find and Fix Vulnerabilities",
+        "tags": "B2B, Security",
+        "link": "https://www.ycombinator.com/companies/gecko-security"
+    },
+    {
+        "name": "Autumn",
+        "location": "",
+        "year": "F24",
+        "description": "Control your pricing plans & feature access",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/autumn"
+    },
+    {
+        "name": "Dexter",
+        "location": "Berlin, Berlin, Germany",
+        "year": "F24",
+        "description": "AI workflow automation for field operations",
+        "tags": "B2B, Operations",
+        "link": "https://www.ycombinator.com/companies/dexter"
+    },
+    {
+        "name": "Moonshine",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "APIs for video understanding",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/moonshine"
+    },
+    {
+        "name": "Abundant",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "On-demand human workforce for AI agents",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/abundant"
+    },
+    {
+        "name": "AutoComputer",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Desktop RPA with AI computer use",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/autocomputer"
+    },
+    {
+        "name": "Tiny",
+        "location": "Singapore, Singapore",
+        "year": "F24",
+        "description": "A new kind of ERP system for factories",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/tiny"
+    },
+    {
+        "name": "vly.ai",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Automating the full-stack developer",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/vly-ai-2"
+    },
+    {
+        "name": "Pearson Labs",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "AI agents to automate corporate transactions",
+        "tags": "B2B, Legal",
+        "link": "https://www.ycombinator.com/companies/pearson-labs"
+    },
+    {
+        "name": "Cekura",
+        "location": "",
+        "year": "F24",
+        "description": "Keep support, marketing, and sales materials up-to-date",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/cekura"
+    },
+    {
+        "name": "Platus",
+        "location": "",
+        "year": "F24",
+        "description": "Instant Legal Infrastructure - Draft, Sign, Notarize & Process",
+        "tags": "B2B, Legal",
+        "link": "https://www.ycombinator.com/companies/platus"
+    },
+    {
+        "name": "Unusual",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Tailor your website for each visitor.",
+        "tags": "B2B, Marketing",
+        "link": "https://www.ycombinator.com/companies/unusual"
+    },
+    {
+        "name": "BeerMe",
+        "location": "New York, NY, USA",
+        "year": "F24",
+        "description": "Fun, global Venmo built on USDC",
+        "tags": "Consumer, Social",
+        "link": "https://www.ycombinator.com/companies/beerme"
+    },
+    {
+        "name": "HYBRD",
+        "location": "Boston, MA, USA",
+        "year": "F24",
+        "description": "Strava for the modern athlete",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/hybrd"
+    },
+    {
+        "name": "Codebuff",
+        "location": "",
+        "year": "F24",
+        "description": "The CLI tool that writes code for you",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/codebuff"
+    },
+    {
+        "name": "Karmen",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "AI Assistant for Construction Project Managers",
+        "tags": "Real Estate and Construction, Construction",
+        "link": "https://www.ycombinator.com/companies/karmen"
+    },
+    {
+        "name": "Lingo.dev",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Automated AI localization for dev teams. (formerly Replexica)",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/lingodotdev"
+    },
+    {
+        "name": "Sphinx",
+        "location": "",
+        "year": "F24",
+        "description": "AI Compliance Analysts for Banks & Fintechs",
+        "tags": "Fintech",
+        "link": "https://www.ycombinator.com/companies/sphinx"
+    },
+    {
+        "name": "Luthor",
+        "location": "",
+        "year": "F24",
+        "description": "AI Copilot for Marketing Compliance",
+        "tags": "B2B, Marketing",
+        "link": "https://www.ycombinator.com/companies/luthor"
+    },
+    {
+        "name": "Keye",
+        "location": "New York, NY, USA",
+        "year": "F24",
+        "description": "The Smartest Private Equity Investor",
+        "tags": "Fintech",
+        "link": "https://www.ycombinator.com/companies/keye"
+    },
+    {
+        "name": "RiskCube",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "We help insurance broker & agents scale their business with AI.",
+        "tags": "Fintech, Insurance",
+        "link": "https://www.ycombinator.com/companies/riskcube"
+    },
+    {
+        "name": "CTGT",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Entirely New AI Stack: Efficient and Safe Alternative to LLM Ecosystem",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/ctgt"
+    },
+    {
+        "name": "StudyDojo",
+        "location": "",
+        "year": "F24",
+        "description": "AI tutors for students.",
+        "tags": "Education",
+        "link": "https://www.ycombinator.com/companies/studydojo"
+    },
+    {
+        "name": "ISSEN",
+        "location": "New York, NY, USA",
+        "year": "F24",
+        "description": "AI realtime voice companion for language learning",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/issen"
+    },
+    {
+        "name": "Protegee",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Payments API for AI Voice Agents",
+        "tags": "Fintech, Payments",
+        "link": "https://www.ycombinator.com/companies/protegee"
+    },
+    {
+        "name": "Circlemind",
+        "location": "",
+        "year": "F24",
+        "description": "Circlemind is an open-source RAG using knowledge graphs and PageRank.",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/circlemind"
+    },
+    {
+        "name": "Reticular",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Interpretable AI for drug discovery",
+        "tags": "Healthcare, Drug Discovery and Delivery",
+        "link": "https://www.ycombinator.com/companies/reticular"
+    },
+    {
+        "name": "Astrix Health",
+        "location": "New York, NY, USA",
+        "year": "F24",
+        "description": "Astrix builds AI purchasing agents for healthcare providers.",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/astrix-health"
+    },
+    {
+        "name": "Lune AI",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Better GPT and Claude for coding",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/lune-ai"
+    },
+    {
+        "name": "Vocera",
+        "location": "",
+        "year": "F24",
+        "description": "Testing & Observability for AI voice agents",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/vocera"
+    },
+    {
+        "name": "Regatta Storage",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Transform S3 in an unlimited, local file system",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/regatta-storage"
+    },
+    {
+        "name": "Sandra AI",
+        "location": "Paris, Île-de-France, France",
+        "year": "F24",
+        "description": "Building AI employees for car dealers, starting with AI receptionists",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/sandra-ai"
+    },
+    {
+        "name": "Vespper",
+        "location": "",
+        "year": "F24",
+        "description": "AI agent that troubleshoots production alerts for software engineers,…",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/vespper"
+    },
+    {
+        "name": "Praxis AI",
+        "location": "New York, NY, USA",
+        "year": "F24",
+        "description": "Manufacturing reasoning agents to predict and prevent machine failures",
+        "tags": "Industrials, Manufacturing and Robotics",
+        "link": "https://www.ycombinator.com/companies/praxis-ai"
+    },
+    {
+        "name": "Revyl",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Proactive observability",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/revyl"
+    },
+    {
+        "name": "supercontrast",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "AI Co-Pilot for Design",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/supercontrast"
+    },
+    {
+        "name": "Raycaster",
+        "location": "",
+        "year": "F24",
+        "description": "Research agent for scientific sales",
+        "tags": "B2B, Sales",
+        "link": "https://www.ycombinator.com/companies/raycaster"
+    },
+    {
+        "name": "Lightscreen AI",
+        "location": "Sunnyvale, CA, USA",
+        "year": "F24",
+        "description": "Voice + video AI interviewer",
+        "tags": "B2B, Recruiting and Talent",
+        "link": "https://www.ycombinator.com/companies/lightscreen-ai"
+    },
+    {
+        "name": "Afternoon.co",
+        "location": "New York, NY, USA",
+        "year": "F24",
+        "description": "AI Bookkeeping and tax platform for ecommerce & startup founders",
+        "tags": "B2B, Finance and Accounting",
+        "link": "https://www.ycombinator.com/companies/afternoon-co"
+    },
+    {
+        "name": "Rulebase",
+        "location": "",
+        "year": "F24",
+        "description": "AI agents for fraud detection and investigations.",
+        "tags": "B2B, Operations",
+        "link": "https://www.ycombinator.com/companies/rulebase"
+    },
+    {
+        "name": "HealthSpark",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Launch and run an AI-native physical therapy practice",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/healthspark"
+    },
+    {
+        "name": "OpenFunnel",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Personalised Agents for AI-First GTM Teams",
+        "tags": "B2B, Sales",
+        "link": "https://www.ycombinator.com/companies/openfunnel"
+    },
+    {
+        "name": "Coblocks",
+        "location": "New York, NY, USA",
+        "year": "F24",
+        "description": "Build data pipelines in minutes with AI",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/coblocks"
+    },
+    {
+        "name": "Getcho",
+        "location": "New York, NY, USA",
+        "year": "F24",
+        "description": "The reliability platform for last-mile delivery",
+        "tags": "B2B, Supply Chain and Logistics",
+        "link": "https://www.ycombinator.com/companies/getcho"
+    },
+    {
+        "name": "Encore",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Conversational search and discovery for secondhand products",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/encore"
+    },
+    {
+        "name": "Summed AI",
+        "location": "Seattle, WA, USA",
+        "year": "F24",
+        "description": "The AI Copilot for Insurance Agents",
+        "tags": "B2B, Sales",
+        "link": "https://www.ycombinator.com/companies/summed-ai"
+    },
+    {
+        "name": "Gait",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Building Dev Infra for AI Software Engineers",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/gait"
+    },
+    {
+        "name": "Durate",
+        "location": "",
+        "year": "F24",
+        "description": "We build automated scheduling software for hospitals",
+        "tags": "Healthcare, Healthcare IT",
+        "link": "https://www.ycombinator.com/companies/durate"
+    },
+    {
+        "name": "Upshift",
+        "location": "Charlotte, NC, USA",
+        "year": "F24",
+        "description": "Turn your software product into a platform.",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/upshift"
+    },
+    {
+        "name": "PearAI",
+        "location": "",
+        "year": "F24",
+        "description": "VSCode For The New Age of AI",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/pearai"
+    },
+    {
+        "name": "Symphony",
+        "location": "New York, NY, USA",
+        "year": "F24",
+        "description": "Voice AI sims for next-gen employee training",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/symphony"
+    },
+    {
+        "name": "telli",
+        "location": "Berlin, Berlin, Germany",
+        "year": "F24",
+        "description": "outbound call automation for B2C companies",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/telli"
+    },
+    {
+        "name": "ShowAndTell",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Agents for dental operations",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/showandtell"
+    },
+    {
+        "name": "Galini",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Compliance guardrails-as-a-service for AI applications",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/galini"
+    },
+    {
+        "name": "Riveter AI",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "The copilot for corporate strategy",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/riveter-ai"
+    },
+    {
+        "name": "Andoria",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Automate any manual and repetitive tasks on the web",
+        "tags": "B2B, Finance and Accounting",
+        "link": "https://www.ycombinator.com/companies/andoria"
+    },
+    {
+        "name": "fixa",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "sentry for AI voice agents",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/fixa"
+    },
+    {
+        "name": "Onlook",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Cursor for Designers",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/onlook"
+    },
+    {
+        "name": "Outerport",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Chain-of-memory reasoning for document understanding",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/outerport"
+    },
+    {
+        "name": "DreamRP",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Bring your characters to life",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/dreamrp"
+    },
+    {
+        "name": "Melty",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Chat with a bunch of AIs at once",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/melty"
+    },
+    {
+        "name": "Syntra",
+        "location": "",
+        "year": "S24",
+        "description": "AI OS for Private Practice Doctors",
+        "tags": "Healthcare, Healthcare IT",
+        "link": "https://www.ycombinator.com/companies/syntra"
+    },
+    {
+        "name": "Exin Therapeutics",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Precision genetic therapies targeting neural activity across disorders",
+        "tags": "Healthcare, Therapeutics",
+        "link": "https://www.ycombinator.com/companies/exin-therapeutics"
+    },
+    {
+        "name": "PathPilot",
+        "location": "",
+        "year": "S24",
+        "description": "The AI Customer Experience Agent",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/pathpilot"
+    },
+    {
+        "name": "Standard Data",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Rebuilding the supply of the American manufacturing workforce.",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/standard-data"
+    },
+    {
+        "name": "Kairo Health",
+        "location": "New York, NY, USA",
+        "year": "S24",
+        "description": "The AI healthcare workforce",
+        "tags": "Healthcare, Healthcare IT",
+        "link": "https://www.ycombinator.com/companies/kairo-health"
+    },
+    {
+        "name": "Midship",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Extract, search and analyze data in your documents",
+        "tags": "B2B, Finance and Accounting",
+        "link": "https://www.ycombinator.com/companies/midship"
+    },
+    {
+        "name": "Soma Lab",
+        "location": "",
+        "year": "S24",
+        "description": "Conversations with AI patients to scale healthcare training.",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/soma-lab"
+    },
+    {
+        "name": "Freestyle",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Build exceptional infrastructure with just JavaScript.",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/freestyle"
+    },
+    {
+        "name": "Arva AI",
+        "location": "",
+        "year": "S24",
+        "description": "AI enabled business verification for banks and fintechs",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/arva-ai"
+    },
+    {
+        "name": "Affil.ai",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Affiliate Network For Financial Companies",
+        "tags": "B2B, Marketing",
+        "link": "https://www.ycombinator.com/companies/affil-ai"
+    },
+    {
+        "name": "OrgOrg",
+        "location": "Los Altos, CA, USA",
+        "year": "S24",
+        "description": "Organizational productivity suite for companies",
+        "tags": "B2B, Productivity",
+        "link": "https://www.ycombinator.com/companies/orgorg"
+    },
+    {
+        "name": "Patched",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Open-source workflow automation for dev teams",
+        "tags": "B2B, Productivity",
+        "link": "https://www.ycombinator.com/companies/patched"
+    },
+    {
+        "name": "Village Labs",
+        "location": "New York, NY, USA",
+        "year": "S24",
+        "description": "Helping America's businesses become employee owned",
+        "tags": "B2B, Human Resources",
+        "link": "https://www.ycombinator.com/companies/village-labs"
+    },
+    {
+        "name": "Mica AI",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Agents that Automate B2B Sales",
+        "tags": "B2B, Sales",
+        "link": "https://www.ycombinator.com/companies/mica-ai"
+    },
+    {
+        "name": "Formula Insight",
+        "location": "New York, NY, USA",
+        "year": "S24",
+        "description": "Help Institutional Investors manage, track & query their Excel models",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/formula-insight"
+    },
+    {
+        "name": "Overlap",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Multimodal AI agents for video",
+        "tags": "Consumer, Content",
+        "link": "https://www.ycombinator.com/companies/overlap"
+    },
+    {
+        "name": "General Analysis",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Automated AI Safety and Red Teaming Tools",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/general-analysis"
+    },
+    {
+        "name": "Void",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "The open source Cursor alternative",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/void"
+    },
+    {
+        "name": "Anglera",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Copilot for Merchandising",
+        "tags": "B2B, Retail",
+        "link": "https://www.ycombinator.com/companies/anglera"
+    },
+    {
+        "name": "XTraffic",
+        "location": "",
+        "year": "S24",
+        "description": "Technology for cities to automate and manage their traffic lights.",
+        "tags": "Government",
+        "link": "https://www.ycombinator.com/companies/xtraffic"
+    },
+    {
+        "name": "Felafax",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Building AI Infra for non-NVIDIA GPUs",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/felafax"
+    },
+    {
+        "name": "Henry",
+        "location": "New York, NY, USA",
+        "year": "S24",
+        "description": "Automating Deal Decks for Commercial Real Estate Brokers",
+        "tags": "Real Estate and Construction",
+        "link": "https://www.ycombinator.com/companies/henry-2"
+    },
+    {
+        "name": "Hey Revia",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Voice AI to automate complex phone calls for healthcare providers",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/hey-revia"
+    },
+    {
+        "name": "Ficra",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Real time, source of truth for every product screen and user flow",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/ficra"
+    },
+    {
+        "name": "RowBoat Labs",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "LLM agents for customer support in fintech",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/rowboat-labs"
+    },
+    {
+        "name": "Vera Health",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI-powered clinical decision support for healthcare providers",
+        "tags": "Healthcare, Healthcare Services",
+        "link": "https://www.ycombinator.com/companies/vera-health"
+    },
+    {
+        "name": "Pharos",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Automate hospital reporting and prevent patient harm with AI",
+        "tags": "Healthcare, Healthcare IT",
+        "link": "https://www.ycombinator.com/companies/pharos"
+    },
+    {
+        "name": "et al.",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Feed of insights extracted from your go-to sources using LLMs.",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/et-al"
+    },
+    {
+        "name": "Keet",
+        "location": "",
+        "year": "S24",
+        "description": "Authentication for AI Agents",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/keet"
+    },
+    {
+        "name": "AI Sell",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Sales Associate for Ecommerce",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/ai-sell"
+    },
+    {
+        "name": "Diode Computers, Inc.",
+        "location": "New York, NY, USA",
+        "year": "S24",
+        "description": "Automate circuit board design using AI",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/diode-computers-inc"
+    },
+    {
+        "name": "Usul",
+        "location": "",
+        "year": "S24",
+        "description": "Win defense contracts with AI",
+        "tags": "Government",
+        "link": "https://www.ycombinator.com/companies/usul"
+    },
+    {
+        "name": "Saldor",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Software Engineers",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/saldor"
+    },
+    {
+        "name": "Bucket Robotics",
+        "location": "",
+        "year": "S24",
+        "description": "Defect detection for manufacturing built from CAD and synthetic data.",
+        "tags": "Industrials, Manufacturing and Robotics",
+        "link": "https://www.ycombinator.com/companies/bucket-robotics"
+    },
+    {
+        "name": "Elayne",
+        "location": "",
+        "year": "S24",
+        "description": "AI family estate planning & settlements after death",
+        "tags": "B2B, Human Resources",
+        "link": "https://www.ycombinator.com/companies/elayne"
+    },
+    {
+        "name": "Blaze",
+        "location": "Mexico City, CDMX, Mexico",
+        "year": "S24",
+        "description": "Global Venmo for cross border payments",
+        "tags": "Fintech, Payments",
+        "link": "https://www.ycombinator.com/companies/blaze-2"
+    },
+    {
+        "name": "pap!",
+        "location": "Berkeley, CA, USA",
+        "year": "S24",
+        "description": "Agents that earn consumers dollars when they shop, travel, and live.",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/pap"
+    },
+    {
+        "name": "Mindely",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "The first GenAI interviewer for skills assessment interviews",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/mindely"
+    },
+    {
+        "name": "TradeFlow",
+        "location": "New York, NY, USA",
+        "year": "S24",
+        "description": "AI-powered settlement for financial securities",
+        "tags": "Fintech",
+        "link": "https://www.ycombinator.com/companies/tradeflow"
+    },
+    {
+        "name": "Voker",
+        "location": "",
+        "year": "S24",
+        "description": "No-Code AI Builder",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/voker"
+    },
+    {
+        "name": "Rastro",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI personal shopper for home goods",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/rastro"
+    },
+    {
+        "name": "Quetzal",
+        "location": "Oakland, CA, USA",
+        "year": "S24",
+        "description": "Simple, LLM-first translation and internationalization for software",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/quetzal"
+    },
+    {
+        "name": "Typa - by Weavel",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Automate inbound through authentic, everyday content posted by AI.",
+        "tags": "B2B, Marketing",
+        "link": "https://www.ycombinator.com/companies/typa-by-weavel"
+    },
+    {
+        "name": "Moreta",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Payments made easy for international travelers.",
+        "tags": "Fintech, Payments",
+        "link": "https://www.ycombinator.com/companies/moreta"
+    },
+    {
+        "name": "Focus Buddy",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Productivity Coach you speak with while working to stay focused…",
+        "tags": "Consumer, Content",
+        "link": "https://www.ycombinator.com/companies/focus-buddy"
+    },
+    {
+        "name": "Simplifine",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI-Powered Workspace for Research",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/simplifine"
+    },
+    {
+        "name": "Sepal AI",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Data Development for Advanced AI",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/sepal-ai"
+    },
+    {
+        "name": "omnidock",
+        "location": "Berlin, Berlin, Germany",
+        "year": "S24",
+        "description": "OS for global e-commerce expansion of brands & manufacturers",
+        "tags": "B2B, Operations",
+        "link": "https://www.ycombinator.com/companies/omnidock"
+    },
+    {
+        "name": "Polymet",
+        "location": "",
+        "year": "S24",
+        "description": "AI Product Designer",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/polymet"
+    },
+    {
+        "name": "Remo",
+        "location": "",
+        "year": "S24",
+        "description": "AI for compliance teams at banks",
+        "tags": "Fintech",
+        "link": "https://www.ycombinator.com/companies/remo"
+    },
+    {
+        "name": "Propaya",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI commercial lease abstractions and review",
+        "tags": "Real Estate and Construction, Housing and Real Estate",
+        "link": "https://www.ycombinator.com/companies/propaya"
+    },
+    {
+        "name": "Vendra",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI copilot for hardware teams working with vendors",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/vendra"
+    },
+    {
+        "name": "ZeroPath",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Automatically find and fix your software vulnerabilities",
+        "tags": "B2B, Security",
+        "link": "https://www.ycombinator.com/companies/zeropath"
+    },
+    {
+        "name": "Pumpkin",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "A web browser built for human and AI collaboration",
+        "tags": "Consumer, Home and Personal",
+        "link": "https://www.ycombinator.com/companies/pumpkin"
+    },
+    {
+        "name": "Star Cloud",
+        "location": "Redmond, WA, USA",
+        "year": "S24",
+        "description": "Data centers in space",
+        "tags": "Industrials, Aviation and Space",
+        "link": "https://www.ycombinator.com/companies/star-cloud"
+    },
+    {
+        "name": "Dataleap",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Perplexity for Consultants",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/dataleap"
+    },
+    {
+        "name": "Zimi",
+        "location": "New York, NY, USA",
+        "year": "S24",
+        "description": "Platform for international brands to sell, ship, and get paid globally",
+        "tags": "B2B, Retail",
+        "link": "https://www.ycombinator.com/companies/zimi"
+    },
+    {
+        "name": "Thyme",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "The OS for financial advisors",
+        "tags": "B2B, Finance and Accounting",
+        "link": "https://www.ycombinator.com/companies/thyme"
+    },
+    {
+        "name": "Ionworks",
+        "location": "Remote",
+        "year": "S24",
+        "description": "Simulation software used by leading battery and automotive companies",
+        "tags": "Industrials, Energy",
+        "link": "https://www.ycombinator.com/companies/ionworks"
+    },
+    {
+        "name": "Rescript",
+        "location": "",
+        "year": "S24",
+        "description": "AI Regulatory Analyst for Enterprises",
+        "tags": "B2B, Legal",
+        "link": "https://www.ycombinator.com/companies/rescript"
+    },
+    {
+        "name": "Frontio - by NextUI",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Frontio simplifies frontend creation by automating design systems and…",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/frontio-by-nextui"
+    },
+    {
+        "name": "Helium",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Self Improving Software",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/helium"
+    },
+    {
+        "name": "Haystack Software",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Visualize and edit your codebase on an infinite canvas",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/haystack-software"
+    },
+    {
+        "name": "Finosu",
+        "location": "",
+        "year": "S24",
+        "description": "Workflow automation for the credit industry",
+        "tags": "Fintech, Credit and Lending",
+        "link": "https://www.ycombinator.com/companies/finosu"
+    },
+    {
+        "name": "Odo",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Help companies find and win government contracts with AI",
+        "tags": "Government",
+        "link": "https://www.ycombinator.com/companies/odo"
+    },
+    {
+        "name": "Baseline AI",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI document creation and data management for clinical trials",
+        "tags": "Healthcare, Healthcare IT",
+        "link": "https://www.ycombinator.com/companies/baseline-ai"
+    },
+    {
+        "name": "RiskAngle",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI medical summaries in minutes",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/riskangle"
+    },
+    {
+        "name": "Winford Wealth",
+        "location": "New York, NY, USA",
+        "year": "S24",
+        "description": "The Leading AI Meeting Assistant for Financial Advisors",
+        "tags": "B2B, Finance and Accounting",
+        "link": "https://www.ycombinator.com/companies/winford-wealth"
+    },
+    {
+        "name": "YouShift",
+        "location": "",
+        "year": "W25",
+        "description": "We automate doctor shift scheduling to save time and reduce burnout.",
+        "tags": "B2B, Human Resources",
+        "link": "https://www.ycombinator.com/companies/youshift"
+    },
+    {
+        "name": "Paasa",
+        "location": "Gurugram, HR, India",
+        "year": "S24",
+        "description": "Simplifying global investing for HNIs in emerging markets",
+        "tags": "Fintech, Asset Management",
+        "link": "https://www.ycombinator.com/companies/paasa"
+    },
+    {
+        "name": "Blast",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Helping enterprises build safe and compliant LLM apps/agents",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/blast"
+    },
+    {
+        "name": "Lilac Labs",
+        "location": "",
+        "year": "S24",
+        "description": "We automate the person taking orders at drive-thrus with a voice AI",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/lilac-labs"
+    },
+    {
+        "name": "Palmier",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Native Github Alternative",
+        "tags": "B2B, Productivity",
+        "link": "https://www.ycombinator.com/companies/palmier"
+    },
+    {
+        "name": "Simple AI",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Phone Assistant for Consumers",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/simple-ai"
+    },
+    {
+        "name": "Sensei",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Robotic Training Data at Scale",
+        "tags": "Industrials, Manufacturing and Robotics",
+        "link": "https://www.ycombinator.com/companies/sensei"
+    },
+    {
+        "name": "Guardian RF",
+        "location": "Washington, DC, USA",
+        "year": "S24",
+        "description": "Drone detection for US defense and national security",
+        "tags": "Industrials, Drones",
+        "link": "https://www.ycombinator.com/companies/guardian-rf"
+    },
+    {
+        "name": "Laminar",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Open-source all-in-one platform for engineering AI products",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/laminar"
+    },
+    {
+        "name": "Cerulion",
+        "location": "",
+        "year": "S24",
+        "description": "Open source operating system for robots",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/cerulion"
+    },
+    {
+        "name": "The Forecasting Company",
+        "location": "Paris, Île-de-France, France",
+        "year": "S24",
+        "description": "Foundation models for time series",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/the-forecasting-company"
+    },
+    {
+        "name": "Praxos",
+        "location": "Miami, FL, USA",
+        "year": "S24",
+        "description": "AI workbench for insurance brokers",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/praxos"
+    },
+    {
+        "name": "Exa Laboratories",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Energy efficient chips for AI",
+        "tags": "Industrials",
+        "link": "https://www.ycombinator.com/companies/exa-laboratories"
+    },
+    {
+        "name": "SchemeFlow",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Automating Government Approvals for Construction Projects",
+        "tags": "Real Estate and Construction",
+        "link": "https://www.ycombinator.com/companies/schemeflow"
+    },
+    {
+        "name": "Brighterway",
+        "location": "",
+        "year": "S24",
+        "description": "Streamlining the record review process for physicians in medlegal…",
+        "tags": "Healthcare, Healthcare IT",
+        "link": "https://www.ycombinator.com/companies/brighterway"
+    },
+    {
+        "name": "Mineflow",
+        "location": "",
+        "year": "S24",
+        "description": "Mineflow predicts the shape and location of mineral deposits",
+        "tags": "Industrials",
+        "link": "https://www.ycombinator.com/companies/mineflow"
+    },
+    {
+        "name": "Soff",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Supply Chain OS for manufacturing companies.",
+        "tags": "B2B, Supply Chain and Logistics",
+        "link": "https://www.ycombinator.com/companies/soff"
+    },
+    {
+        "name": "Parley",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Automating flat-fee legal work, starting with work visas + green cards",
+        "tags": "B2B, Legal",
+        "link": "https://www.ycombinator.com/companies/parley"
+    },
+    {
+        "name": "Pinnacle",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "API & SDK for RCS (the next-generation of texting)",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/pinnacle"
+    },
+    {
+        "name": "Ember Robotics",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Datadog for robots",
+        "tags": "Industrials, Manufacturing and Robotics",
+        "link": "https://www.ycombinator.com/companies/ember-robotics"
+    },
+    {
+        "name": "Thunder Compute",
+        "location": "Atlanta, GA, USA",
+        "year": "S24",
+        "description": "Virtualization software to make GPUs 5x cheaper",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/thunder-compute"
+    },
+    {
+        "name": "Kura AI",
+        "location": "",
+        "year": "S24",
+        "description": "New State of the Art for Browser Agents",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/kura-ai"
+    },
+    {
+        "name": "Zeit AI",
+        "location": "",
+        "year": "S24",
+        "description": "Enterprise insights from spreadsheet data with just a few words.",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/zeit-ai"
+    },
+    {
+        "name": "Remade",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Using AI to hyper-personalize videos for marketplaces",
+        "tags": "B2B, Marketing",
+        "link": "https://www.ycombinator.com/companies/remade"
+    },
+    {
+        "name": "Modern Realty",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Real Estate Brokerage",
+        "tags": "Real Estate and Construction, Housing and Real Estate",
+        "link": "https://www.ycombinator.com/companies/modern-realty"
+    },
+    {
+        "name": "David AI",
+        "location": "",
+        "year": "S24",
+        "description": "Data for audio AI",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/david-ai"
+    },
+    {
+        "name": "BeeBettor",
+        "location": "",
+        "year": "S24",
+        "description": "Robinhood for sports betting",
+        "tags": "Consumer, Gaming",
+        "link": "https://www.ycombinator.com/companies/beebettor"
+    },
+    {
+        "name": "Guardian AI",
+        "location": "New York, NY, USA",
+        "year": "S24",
+        "description": "Helping healthcare providers fight insurance denials.",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/guardian-ai"
+    },
+    {
+        "name": "Stempad",
+        "location": "",
+        "year": "S24",
+        "description": "Notion for science",
+        "tags": "B2B, Productivity",
+        "link": "https://www.ycombinator.com/companies/stempad"
+    },
+    {
+        "name": "Pax",
+        "location": "",
+        "year": "S24",
+        "description": "AI Broker for Import Tax Refunds",
+        "tags": "B2B, Supply Chain and Logistics",
+        "link": "https://www.ycombinator.com/companies/pax"
+    },
+    {
+        "name": "Conductor Quantum",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Quantum computers on silicon chips using AI.",
+        "tags": "Industrials",
+        "link": "https://www.ycombinator.com/companies/conductor-quantum"
+    },
+    {
+        "name": "Autumn Labs",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Datadog for industrial robots",
+        "tags": "Industrials, Manufacturing and Robotics",
+        "link": "https://www.ycombinator.com/companies/autumn-labs"
+    },
+    {
+        "name": "Opslane",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI SRE to speed up incident response",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/opslane"
+    },
+    {
+        "name": "Asterisk",
+        "location": "",
+        "year": "S24",
+        "description": "AI Hacker for Codebases",
+        "tags": "B2B, Security",
+        "link": "https://www.ycombinator.com/companies/asterisk"
+    },
+    {
+        "name": "Biocartesian",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Converting biology into digital molecular maps",
+        "tags": "Healthcare, Drug Discovery and Delivery",
+        "link": "https://www.ycombinator.com/companies/biocartesian"
+    },
+    {
+        "name": "Seals AI",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Employees for Wholesalers & Distributors",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/seals-ai"
+    },
+    {
+        "name": "deepsilicon",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Software and hardware to run neural networks faster and cheaper",
+        "tags": "Industrials",
+        "link": "https://www.ycombinator.com/companies/deepsilicon"
+    },
+    {
+        "name": "Drillbit",
+        "location": "",
+        "year": "S24",
+        "description": "Automating Office Work for Residential Contractors.",
+        "tags": "B2B, Operations",
+        "link": "https://www.ycombinator.com/companies/drillbit"
+    },
+    {
+        "name": "Lumenary",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Build production-worthy software quickly with AI.",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/lumenary"
+    },
+    {
+        "name": "Dimely",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI agents for B2B SaaS Finance Teams",
+        "tags": "B2B, Finance and Accounting",
+        "link": "https://www.ycombinator.com/companies/dimely"
+    },
+    {
+        "name": "Redouble AI",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Scale human-in-the-loop for AI workflows in regulated industries",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/redouble-ai"
+    },
+    {
+        "name": "Planbase",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Workforce management for modern healthcare",
+        "tags": "Healthcare, Healthcare IT",
+        "link": "https://www.ycombinator.com/companies/planbase"
+    },
+    {
+        "name": "Unriddle",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Read, write and find research papers faster.",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/unriddle"
+    },
+    {
+        "name": "Hestus, Inc.",
+        "location": "",
+        "year": "S24",
+        "description": "An AI-powered CAD software",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/hestus-inc"
+    },
+    {
+        "name": "MagiCode",
+        "location": "Stanford, CA, USA",
+        "year": "S24",
+        "description": "A Reliable AI Frontend Engineer",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/magicode"
+    },
+    {
+        "name": "FINNY AI",
+        "location": "New York, NY, USA",
+        "year": "S24",
+        "description": "The OS for independent financial advisors",
+        "tags": "Fintech, Asset Management",
+        "link": "https://www.ycombinator.com/companies/finny-ai"
+    },
+    {
+        "name": "Focal",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI-powered compliance operations for banks and fintechs",
+        "tags": "B2B, Operations",
+        "link": "https://www.ycombinator.com/companies/focal-2"
+    },
+    {
+        "name": "1849 bio",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Engineering microbes for miners to unlock billions in trapped metal",
+        "tags": "Industrials",
+        "link": "https://www.ycombinator.com/companies/1849-bio"
+    },
+    {
+        "name": "ReactWise",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Co-Pilot for Chemical Process Optimization",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/reactwise"
+    },
+    {
+        "name": "Paradome",
+        "location": "New York, NY, USA",
+        "year": "S24",
+        "description": "Rapid AI development & deployment for government",
+        "tags": "Government",
+        "link": "https://www.ycombinator.com/companies/paradome"
+    },
+    {
+        "name": "Clearly AI",
+        "location": "Seattle, WA, USA",
+        "year": "S24",
+        "description": "Automate security and privacy reviews",
+        "tags": "B2B, Security",
+        "link": "https://www.ycombinator.com/companies/clearly-ai"
+    },
+    {
+        "name": "expand.ai",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Turn any website into an API.",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/expand-ai"
+    },
+    {
+        "name": "Overstand Labs",
+        "location": "San Francisco, CA, USA",
+        "year": "W25",
+        "description": "Leverage your customer comms to get into Founder Mode",
+        "tags": "B2B, Productivity",
+        "link": "https://www.ycombinator.com/companies/overstand-labs"
+    },
+    {
+        "name": "Promi",
+        "location": "",
+        "year": "S24",
+        "description": "Optimizing ecommerce pricing with dynamic, personalized discounts",
+        "tags": "B2B, Retail",
+        "link": "https://www.ycombinator.com/companies/promi"
+    },
+    {
+        "name": "Ontra Mobility",
+        "location": "New York, NY, USA",
+        "year": "S24",
+        "description": "Platform for cities to optimize transit",
+        "tags": "Government",
+        "link": "https://www.ycombinator.com/companies/ontra-mobility"
+    },
+    {
+        "name": "Fortress",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Globally replicated and sharded Postgres",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/fortress"
+    },
+    {
+        "name": "Panora",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Copilot for Warehouse Coordinators",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/panora"
+    },
+    {
+        "name": "Manaflow",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Build internal tools for AI using natural language",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/manaflow"
+    },
+    {
+        "name": "Conveo",
+        "location": "Antwerp, Flanders, Belgium",
+        "year": "S24",
+        "description": "Qualitative Research Conducted and Analyzed by AI",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/conveo"
+    },
+    {
+        "name": "Parity",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "The AI SRE for Incident Response",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/parity"
+    },
+    {
+        "name": "Kastle",
+        "location": "",
+        "year": "S24",
+        "description": "AI voice agents for mortgage servicing",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/kastle"
+    },
+    {
+        "name": "Kopra Bio",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Genetically engineered viruses that teach your immune system to kill…",
+        "tags": "Healthcare, Therapeutics",
+        "link": "https://www.ycombinator.com/companies/kopra-bio"
+    },
+    {
+        "name": "Anthrogen",
+        "location": "",
+        "year": "S24",
+        "description": "We make molecules like fuels and plastics from the air.",
+        "tags": "Industrials, Climate",
+        "link": "https://www.ycombinator.com/companies/anthrogen"
+    },
+    {
+        "name": "Benchify",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Bug-free code without writing tests",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/benchify"
+    },
+    {
+        "name": "Fazeshift",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI agent for Accounts Receivable",
+        "tags": "B2B, Finance and Accounting",
+        "link": "https://www.ycombinator.com/companies/fazeshift"
+    },
+    {
+        "name": "Substrate",
+        "location": "Remote",
+        "year": "S24",
+        "description": "Artificial Intelligence for your medical billing team",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/substrate"
+    },
+    {
+        "name": "Zenbase AI",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Continuous prompt optimization for LLMs from DSPy core contributors",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/zenbase-ai"
+    },
+    {
+        "name": "Lighthouz AI",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI procurement specialists for manufacturers",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/lighthouz-ai"
+    },
+    {
+        "name": "Modus",
+        "location": "Remote",
+        "year": "S24",
+        "description": "Unlock revenue per employee with AI-powered headcount management",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/modus"
+    },
+    {
+        "name": "dmodel",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Look inside the model",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/dmodel"
+    },
+    {
+        "name": "LedgerUp",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Your AI billing teammate that automates contracts to revenue",
+        "tags": "B2B, Finance and Accounting",
+        "link": "https://www.ycombinator.com/companies/ledgerup"
+    },
+    {
+        "name": "Plume",
+        "location": "Paris, Île-de-France, France",
+        "year": "S24",
+        "description": "Home energy renovation copilot",
+        "tags": "Industrials, Climate",
+        "link": "https://www.ycombinator.com/companies/plume"
+    },
+    {
+        "name": "Pulse",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Production-Grade Unstructured Document Extraction",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/pulse-3"
+    },
+    {
+        "name": "AutoPallet Robotics",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "We make robots that move boxes in warehouses",
+        "tags": "Industrials, Manufacturing and Robotics",
+        "link": "https://www.ycombinator.com/companies/autopallet-robotics"
+    },
+    {
+        "name": "stormy.ai",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Influencer marketing on autopilot",
+        "tags": "B2B, Marketing",
+        "link": "https://www.ycombinator.com/companies/stormy-ai"
+    },
+    {
+        "name": "Dench.com",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Secretary to pre-qualify leads for law firms",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/dench-com"
+    },
+    {
+        "name": "AminoAnalytica",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Your biotech's first AI protein engineer",
+        "tags": "Healthcare, Industrial Bio",
+        "link": "https://www.ycombinator.com/companies/aminoanalytica"
+    },
+    {
+        "name": "Gauge",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Solving the monolith/microservices dilemma.",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/gauge"
+    },
+    {
+        "name": "Weave Robotics",
+        "location": "",
+        "year": "S24",
+        "description": "Personal robots for the home--that ship in 2025",
+        "tags": "Industrials, Manufacturing and Robotics",
+        "link": "https://www.ycombinator.com/companies/weave-robotics"
+    },
+    {
+        "name": "AnswerGrid",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Gen AI for Consultants",
+        "tags": "B2B, Productivity",
+        "link": "https://www.ycombinator.com/companies/answergrid"
+    },
+    {
+        "name": "Tivara",
+        "location": "",
+        "year": "S24",
+        "description": "Using LLMs to automate insurance approval for healthcare clinics",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/tivara"
+    },
+    {
+        "name": "camfer",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Building the world’s first AI mechanical engineer.",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/camfer"
+    },
+    {
+        "name": "MinusX",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Data Scientist for Jupyter and Metabase",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/minusx"
+    },
+    {
+        "name": "Snowpilot",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "The connected spreadsheet that destroys data silos",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/snowpilot"
+    },
+    {
+        "name": "Passage",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Clear goods through customs, with AI",
+        "tags": "B2B, Supply Chain and Logistics",
+        "link": "https://www.ycombinator.com/companies/passage"
+    },
+    {
+        "name": "Parahelp",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "The AI support agent for fast-growing software companies",
+        "tags": "B2B, Operations",
+        "link": "https://www.ycombinator.com/companies/parahelp"
+    },
+    {
+        "name": "CodeViz",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Visual Search Engine For Code",
+        "tags": "B2B, Productivity",
+        "link": "https://www.ycombinator.com/companies/codeviz"
+    },
+    {
+        "name": "RunLocal",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "The On-Device AI Development Platform",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/runlocal"
+    },
+    {
+        "name": "Ares Industries",
+        "location": "El Segundo, CA, USA",
+        "year": "S24",
+        "description": "Building low-cost cruise missiles",
+        "tags": "Industrials, Aviation and Space",
+        "link": "https://www.ycombinator.com/companies/ares-industries"
+    },
+    {
+        "name": "Dodo",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Employees for Specialty Clinics",
+        "tags": "Healthcare, Healthcare IT",
+        "link": "https://www.ycombinator.com/companies/dodo"
+    },
+    {
+        "name": "Lucible",
+        "location": "",
+        "year": "S24",
+        "description": "Combined checking and investment account",
+        "tags": "B2B, Operations",
+        "link": "https://www.ycombinator.com/companies/lucible"
+    },
+    {
+        "name": "Elevate",
+        "location": "New York, NY, USA",
+        "year": "S24",
+        "description": "AI-powered data transformations for roll-ups",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/elevate-2"
+    },
+    {
+        "name": "Offstream",
+        "location": "",
+        "year": "S24",
+        "description": "Vanta for carbon compliance",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/offstream"
+    },
+    {
+        "name": "Storia AI",
+        "location": "Millbrae, CA, USA",
+        "year": "S24",
+        "description": "Open source AI copilot that knows your company's code and its context",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/storia-ai"
+    },
+    {
+        "name": "DeepSim, Inc.",
+        "location": "Mountain View, CA, USA",
+        "year": "S24",
+        "description": "An AI physics simulator for AI chip design",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/deepsim-inc"
+    },
+    {
+        "name": "reworks",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Turn external software into APIs that don’t break",
+        "tags": "B2B, Productivity",
+        "link": "https://www.ycombinator.com/companies/reworks"
+    },
+    {
+        "name": "Zuni",
+        "location": "Remote",
+        "year": "S24",
+        "description": "Smarter email for founders",
+        "tags": "B2B, Productivity",
+        "link": "https://www.ycombinator.com/companies/zuni"
+    },
+    {
+        "name": "Proxis",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "The developer platform for LLM distillation and serving.",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/proxis"
+    },
+    {
+        "name": "Rewbi",
+        "location": "",
+        "year": "S24",
+        "description": "Rewbi uses AI to increase grid-connected battery storage revenue 2x",
+        "tags": "Industrials, Energy",
+        "link": "https://www.ycombinator.com/companies/rewbi"
+    },
+    {
+        "name": "Willow",
+        "location": "Palo Alto, CA, USA",
+        "year": "S24",
+        "description": "AI-powered Revenue Cycle Management for Long-term Care",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/willow"
+    },
+    {
+        "name": "Aviary",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Video Intelligence",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/aviary"
+    },
+    {
+        "name": "NetworkOcean",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "We build and operate underwater data centers.",
+        "tags": "Industrials, Climate",
+        "link": "https://www.ycombinator.com/companies/networkocean"
+    },
+    {
+        "name": "Silurian",
+        "location": "Kirkland, WA, USA",
+        "year": "S24",
+        "description": "Foundation models to simulate Earth, starting with weather.",
+        "tags": "Industrials, Climate",
+        "link": "https://www.ycombinator.com/companies/silurian"
+    },
+    {
+        "name": "Kura",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "The AI DevOps Copilot for Software Teams",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/kura"
+    },
+    {
+        "name": "Unbound Security",
+        "location": "",
+        "year": "S24",
+        "description": "Allow employees to use AI tools without fear of data loss",
+        "tags": "B2B, Security",
+        "link": "https://www.ycombinator.com/companies/unbound-security"
+    },
+    {
+        "name": "RetroFix AI",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Turbo Tax for Building Rebates",
+        "tags": "Industrials, Climate",
+        "link": "https://www.ycombinator.com/companies/retrofix-ai"
+    },
+    {
+        "name": "Azalea Robotics Corporation",
+        "location": "Berkeley, CA, USA",
+        "year": "S24",
+        "description": "Automating airport baggage handling with robots.",
+        "tags": "Industrials, Manufacturing and Robotics",
+        "link": "https://www.ycombinator.com/companies/azalea-robotics-corporation"
+    },
+    {
+        "name": "Leeroo",
+        "location": "",
+        "year": "X25",
+        "description": "Turning workflows to production-ready, e2e trainable Compound Models.",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/leeroo"
+    },
+    {
+        "name": "Decisional AI",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Agent for private markets that accelerates deep financial work",
+        "tags": "Fintech",
+        "link": "https://www.ycombinator.com/companies/decisional-ai"
+    },
+    {
+        "name": "Moonglow",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "No-code platform for building browser agents",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/moonglow"
+    },
+    {
+        "name": "ideate.xyz",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Automate marketing graphics design at scale",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/ideate-xyz"
+    },
+    {
+        "name": "Sorcerer",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "We build weather balloons that collect 1000x more data",
+        "tags": "Industrials, Climate",
+        "link": "https://www.ycombinator.com/companies/sorcerer"
+    },
+    {
+        "name": "Maitai",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Reliable, self-improving enterprise AI",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/maitai"
+    },
+    {
+        "name": "Phonely",
+        "location": "",
+        "year": "S24",
+        "description": "AI call centers",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/phonely"
+    },
+    {
+        "name": "VideoGen",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI that can create and edit professional videos",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/videogen"
+    },
+    {
+        "name": "Clara",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Helping families discover, hire, and manage in-home caregivers",
+        "tags": "Healthcare, Consumer Health and Wellness",
+        "link": "https://www.ycombinator.com/companies/clara"
+    },
+    {
+        "name": "Stack Auth",
+        "location": "",
+        "year": "S24",
+        "description": "The open-source Auth0 alternative",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/stack-auth"
+    },
+    {
+        "name": "Tabular",
+        "location": "",
+        "year": "S24",
+        "description": "AI Copilot for accounting firms in Europe",
+        "tags": "B2B, Finance and Accounting",
+        "link": "https://www.ycombinator.com/companies/tabular"
+    },
+    {
+        "name": "Callback",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI-native business process outsourcing",
+        "tags": "B2B, Operations",
+        "link": "https://www.ycombinator.com/companies/callback"
+    },
+    {
+        "name": "Flyflow",
+        "location": "",
+        "year": "S24",
+        "description": "The easiest way to find high-quality sales leads",
+        "tags": "B2B, Sales",
+        "link": "https://www.ycombinator.com/companies/flyflow"
+    },
+    {
+        "name": "Bayesline",
+        "location": "New York, NY, USA",
+        "year": "S24",
+        "description": "Highly customizable and blazingly fast analytics for asset managers.",
+        "tags": "Fintech, Asset Management",
+        "link": "https://www.ycombinator.com/companies/bayesline"
+    },
+    {
+        "name": "DigitalCarbon",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Transform Images And Videos Into Immersive 3D With AI",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/digitalcarbon"
+    },
+    {
+        "name": "Unsloth AI",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Open Source Fine-tuning & Training of LLMs",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/unsloth-ai"
+    },
+    {
+        "name": "Codes Health",
+        "location": "New York, NY, USA",
+        "year": "S24",
+        "description": "Perfect medical histories.",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/codes-health"
+    },
+    {
+        "name": "Entangl",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Automating hardware design end-to-end without errors",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/entangl"
+    },
+    {
+        "name": "Hamming AI",
+        "location": "",
+        "year": "S24",
+        "description": "Automated AI voice agent testing",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/hamming-ai"
+    },
+    {
+        "name": "Rides",
+        "location": "Lake Oswego, OR, USA",
+        "year": "S24",
+        "description": "The car community for the car community.",
+        "tags": "Consumer, Social",
+        "link": "https://www.ycombinator.com/companies/rides"
+    },
+    {
+        "name": "ProhostAI",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Property Manager for Airbnb & Short-Term Rental Hosts",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/prohostai"
+    },
+    {
+        "name": "Educato AI",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI-Powered Worldwide exam-prep platform",
+        "tags": "Education",
+        "link": "https://www.ycombinator.com/companies/educato-ai"
+    },
+    {
+        "name": "Comfy Deploy",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Vercel for Gen AI applications",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/comfy-deploy"
+    },
+    {
+        "name": "Synnax",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Unified Hardware Control and Data Processing Software",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/synnax"
+    },
+    {
+        "name": "Theseus",
+        "location": "",
+        "year": "S24",
+        "description": "GPS Denied Navigation for Drones",
+        "tags": "Industrials, Drones",
+        "link": "https://www.ycombinator.com/companies/theseus"
+    },
+    {
+        "name": "Saphira AI",
+        "location": "",
+        "year": "S24",
+        "description": "Vanta for Hardware",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/saphira-ai"
+    },
+    {
+        "name": "Glasskube",
+        "location": "Vienna, Vienna, Austria",
+        "year": "S24",
+        "description": "Software Distribution Platform for On-Prem, Kubernetes, Docker & BYOC",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/glasskube"
+    },
+    {
+        "name": "Mem0",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "The Memory layer for your AI apps",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/mem0"
+    },
+    {
+        "name": "Cheers",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Frontline reviews, payments, & referrals in a tap",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/cheers"
+    },
+    {
+        "name": "Ply Health",
+        "location": "New York, NY, USA",
+        "year": "S24",
+        "description": "Faster way to get providers in-network with payers.",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/ply-health"
+    },
+    {
+        "name": "Variant",
+        "location": "San Francisco, CA, USA",
+        "year": "F24",
+        "description": "Building the state-of-the-art model for software design",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/variant"
+    },
+    {
+        "name": "Doublezero",
+        "location": "Remote",
+        "year": "S24",
+        "description": "Platform to build, use, and monetize fully autonomous agents",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/doublezero"
+    },
+    {
+        "name": "Superunit",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI powered ERP for companies manufacturing or selling physical goods",
+        "tags": "B2B, Operations",
+        "link": "https://www.ycombinator.com/companies/superunit"
+    },
+    {
+        "name": "Undermind",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "An AI agent for scientific research",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/undermind"
+    },
+    {
+        "name": "Domu Technology Inc.",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Automating debt collection calls for banks.",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/domu-technology-inc"
+    },
+    {
+        "name": "Apten",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Customizable AI SMS agents for businesses",
+        "tags": "B2B, Marketing",
+        "link": "https://www.ycombinator.com/companies/apten"
+    },
+    {
+        "name": "Spherecast",
+        "location": "",
+        "year": "S24",
+        "description": "AI Supply Chain Manager for Ecommerce",
+        "tags": "B2B, Supply Chain and Logistics",
+        "link": "https://www.ycombinator.com/companies/spherecast"
+    },
+    {
+        "name": "Miru",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Deployment infrastructure for robotics and IoT",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/miru-ml"
+    },
+    {
+        "name": "Augment Inc.",
+        "location": "",
+        "year": "S24",
+        "description": "Augment automates business roles like sales and accounting with AI.",
+        "tags": "B2B, Sales",
+        "link": "https://www.ycombinator.com/companies/augment-inc"
+    },
+    {
+        "name": "Abel Police",
+        "location": "",
+        "year": "S24",
+        "description": "Automating police paperwork",
+        "tags": "Government",
+        "link": "https://www.ycombinator.com/companies/abel-police"
+    },
+    {
+        "name": "Ultra",
+        "location": "New York, NY, USA",
+        "year": "S24",
+        "description": "Robots to package billions of e-commerce orders in warehouses",
+        "tags": "Industrials, Manufacturing and Robotics",
+        "link": "https://www.ycombinator.com/companies/ultra"
+    },
+    {
+        "name": "Indemni",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Cargo Theft and Fraud Prevention Platform",
+        "tags": "B2B, Supply Chain and Logistics",
+        "link": "https://www.ycombinator.com/companies/indemni"
+    },
+    {
+        "name": "Ångström AI",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Gen AI molecular simulations that reproduce wetlab results",
+        "tags": "Healthcare, Drug Discovery and Delivery",
+        "link": "https://www.ycombinator.com/companies/angstrom-ai"
+    },
+    {
+        "name": "ParcelBio",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Next-generation mRNA medicines",
+        "tags": "Healthcare, Therapeutics",
+        "link": "https://www.ycombinator.com/companies/parcelbio"
+    },
+    {
+        "name": "Coval",
+        "location": "",
+        "year": "S24",
+        "description": "Simulation & Evaluation for AI Agents",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/coval"
+    },
+    {
+        "name": "Forge Rewards",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Starbucks app for restaurants",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/forge-rewards"
+    },
+    {
+        "name": "Dropback",
+        "location": "Roeland Park, KS, USA",
+        "year": "W24",
+        "description": "The front office software suite for college sports",
+        "tags": "Fintech",
+        "link": "https://www.ycombinator.com/companies/dropback"
+    },
+    {
+        "name": "RetailReady",
+        "location": "",
+        "year": "W24",
+        "description": "An AI-powered supply chain compliance engine",
+        "tags": "B2B, Supply Chain and Logistics",
+        "link": "https://www.ycombinator.com/companies/retailready"
+    },
+    {
+        "name": "Million",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Make websites fast, automatically",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/million"
+    },
+    {
+        "name": "NowHouse",
+        "location": "",
+        "year": "W24",
+        "description": "NowHouse helps stock brokerages settle trades instantly.",
+        "tags": "Fintech",
+        "link": "https://www.ycombinator.com/companies/nowhouse"
+    },
+    {
+        "name": "Reprompt",
+        "location": "",
+        "year": "W24",
+        "description": "AI Agents for Location",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/reprompt"
+    },
+    {
+        "name": "Yarn",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "Make sales and marketing videos with AI.",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/yarn-2"
+    },
+    {
+        "name": "Blacksmith",
+        "location": "",
+        "year": "W24",
+        "description": "Serverless cloud infra for CI",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/blacksmith"
+    },
+    {
+        "name": "CrowdVolt",
+        "location": "NY, USA",
+        "year": "W24",
+        "description": "Bid/ask style ticket exchange powered by automated order fulfillment",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/crowdvolt"
+    },
+    {
+        "name": "kater.ai",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Deliver complete data analysis from a single question",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/kater-ai"
+    },
+    {
+        "name": "Mathos",
+        "location": "Santa Clara, CA, USA",
+        "year": "W24",
+        "description": "Ultimate AI Math Problem Solver to Revolutionize Personalized Learning",
+        "tags": "Education",
+        "link": "https://www.ycombinator.com/companies/mathos"
+    },
+    {
+        "name": "Tower",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Legal due diligence platform powered by AI",
+        "tags": "B2B, Legal",
+        "link": "https://www.ycombinator.com/companies/tower"
+    },
+    {
+        "name": "Dragoneye",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "More detailed object recognition than Google and Amazon",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/dragoneye"
+    },
+    {
+        "name": "renderlet",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "Build interactive applications that run anywhere",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/renderlet"
+    },
+    {
+        "name": "Fume",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "We are building the AI Software Developer",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/fume"
+    },
+    {
+        "name": "The New Money Company",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "The offshore bank for international contractors",
+        "tags": "Fintech, Banking and Exchange",
+        "link": "https://www.ycombinator.com/companies/the-new-money-company"
+    },
+    {
+        "name": "Forge",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Procurement software for hardware companies",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/forge"
+    },
+    {
+        "name": "Integuru",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Integrations without official APIs",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/integuru"
+    },
+    {
+        "name": "Pico",
+        "location": "",
+        "year": "W24",
+        "description": "Pico organizes and takes action on your iPhone screenshots",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/pico"
+    },
+    {
+        "name": "Granza Bio",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Advancing Therapeutic Delivery",
+        "tags": "Healthcare, Therapeutics",
+        "link": "https://www.ycombinator.com/companies/granza-bio"
+    },
+    {
+        "name": "Haplotype Labs",
+        "location": "Remote",
+        "year": "W24",
+        "description": "Personalized prevention using genetics and AI",
+        "tags": "Healthcare, Diagnostics",
+        "link": "https://www.ycombinator.com/companies/haplotype-labs"
+    },
+    {
+        "name": "Healia",
+        "location": "Columbus, OH, USA",
+        "year": "W24",
+        "description": "Modern health insurance for dual income families",
+        "tags": "Fintech, Insurance",
+        "link": "https://www.ycombinator.com/companies/healia"
+    },
+    {
+        "name": "TrueClaim",
+        "location": "Remote",
+        "year": "W24",
+        "description": "Transparent, AI-powered healthcare TPA.",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/trueclaim"
+    },
+    {
+        "name": "Reform",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "The AI-powered workspace for freight forwarding",
+        "tags": "B2B, Supply Chain and Logistics",
+        "link": "https://www.ycombinator.com/companies/reform"
+    },
+    {
+        "name": "Piramidal",
+        "location": "",
+        "year": "W24",
+        "description": "Foundation Model for the Brain",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/piramidal"
+    },
+    {
+        "name": "Junction Bioscience",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI Hypothesis Engine for Molecular Discovery",
+        "tags": "Healthcare, Therapeutics",
+        "link": "https://www.ycombinator.com/companies/junction-bioscience"
+    },
+    {
+        "name": "Evolvere BioSciences",
+        "location": "Oxford, England, United Kingdom",
+        "year": "S24",
+        "description": "Making Next-Generation Antibiotics that Outpace Bacterial Evolution",
+        "tags": "Healthcare, Therapeutics",
+        "link": "https://www.ycombinator.com/companies/evolvere-biosciences"
+    },
+    {
+        "name": "Spur",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Spur is your AI QA Engineer. Test your websites with natural language.",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/spur"
+    },
+    {
+        "name": "OddsView",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "The Bloomberg Terminal of Sports Betting",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/oddsview"
+    },
+    {
+        "name": "Silogy",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "An AI-powered test and debug platform for chip developers",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/silogy"
+    },
+    {
+        "name": "Senso",
+        "location": "",
+        "year": "W24",
+        "description": "AI-Powered Knowledge Base for Customer Support",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/senso"
+    },
+    {
+        "name": "Eris Biotech",
+        "location": "Lehi, UT, USA",
+        "year": "W24",
+        "description": "Our drugs engage the immune system to fight tumors",
+        "tags": "Healthcare, Therapeutics",
+        "link": "https://www.ycombinator.com/companies/eris-biotech"
+    },
+    {
+        "name": "OpenFoundry",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "The fastest developer experience for building on open source AI.",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/openfoundry"
+    },
+    {
+        "name": "GoldenBasis",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Modern back-office software for brokerages",
+        "tags": "Fintech, Banking and Exchange",
+        "link": "https://www.ycombinator.com/companies/goldenbasis"
+    },
+    {
+        "name": "Penciled",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Fill 10X more canceled appointments",
+        "tags": "Healthcare, Healthcare IT",
+        "link": "https://www.ycombinator.com/companies/penciled"
+    },
+    {
+        "name": "Magic Hour",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Platform for AI video generation.",
+        "tags": "Consumer, Content",
+        "link": "https://www.ycombinator.com/companies/magic-hour"
+    },
+    {
+        "name": "Lumona",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI-enabled search engine featuring insights from social media.",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/lumona"
+    },
+    {
+        "name": "Datacurve",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Frontier coding data for training and evaluating LLMs",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/datacurve"
+    },
+    {
+        "name": "Marblism",
+        "location": "",
+        "year": "W24",
+        "description": "Generate a fully-functional web app from a single prompt",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/marblism"
+    },
+    {
+        "name": "CommodityAI",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI & Automation Software Powering Physical Commodity Trading",
+        "tags": "B2B, Supply Chain and Logistics",
+        "link": "https://www.ycombinator.com/companies/commodityai"
+    },
+    {
+        "name": "Veles",
+        "location": "Santa Barbara, CA, USA",
+        "year": "W24",
+        "description": "The Sales Calculator",
+        "tags": "B2B, Sales",
+        "link": "https://www.ycombinator.com/companies/veles"
+    },
+    {
+        "name": "Fluently",
+        "location": "Remote",
+        "year": "W24",
+        "description": "AI-powered speaking coach for calls",
+        "tags": "B2B, Productivity",
+        "link": "https://www.ycombinator.com/companies/fluently"
+    },
+    {
+        "name": "Basepilot",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI coworkers to automate browser work, in minutes.",
+        "tags": "B2B, Productivity",
+        "link": "https://www.ycombinator.com/companies/basepilot"
+    },
+    {
+        "name": "Aqua Voice",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Voice-only text editor",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/aqua-voice"
+    },
+    {
+        "name": "xPay",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "International Billing Ops, Sales Tax and Payments for SaaS businesses",
+        "tags": "Fintech, Payments",
+        "link": "https://www.ycombinator.com/companies/xpay"
+    },
+    {
+        "name": "Vista Power",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Modular battery energy storage for businesses",
+        "tags": "Industrials, Energy",
+        "link": "https://www.ycombinator.com/companies/vista-power"
+    },
+    {
+        "name": "ForEffect",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI Video Effects",
+        "tags": "Consumer, Content",
+        "link": "https://www.ycombinator.com/companies/foreffect"
+    },
+    {
+        "name": "Ocular AI",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI-Native Data Engine for LLMs, Computer Vision, & Enterprise AI",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/ocular-ai"
+    },
+    {
+        "name": "Retell AI",
+        "location": "",
+        "year": "W24",
+        "description": "Supercharge Your Contact Center Operations with AI Phone Agents",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/retell-ai"
+    },
+    {
+        "name": "Rove",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "Travel the world for free.",
+        "tags": "Consumer, Travel, Leisure and Tourism",
+        "link": "https://www.ycombinator.com/companies/rove"
+    },
+    {
+        "name": "camelAI",
+        "location": "Austin, TX, USA",
+        "year": "W24",
+        "description": "AI Business Intelligence agent. Get actionable insights in minutes.",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/camelai"
+    },
+    {
+        "name": "Spark",
+        "location": "",
+        "year": "W24",
+        "description": "AI-powered workflows for large-scale clean energy",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/spark"
+    },
+    {
+        "name": "Downlink",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Downlink makes LLMs 70%+ faster with a few lines of code",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/downlink"
+    },
+    {
+        "name": "Terrakotta",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI platform for phone-first sellers",
+        "tags": "B2B, Sales",
+        "link": "https://www.ycombinator.com/companies/terrakotta"
+    },
+    {
+        "name": "Stacksync",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Real-time and two-way sync between CRMs and Databases",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/stacksync"
+    },
+    {
+        "name": "Hatchet",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "Background task orchestration and visibility",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/hatchet-2"
+    },
+    {
+        "name": "Shepherd",
+        "location": "Remote",
+        "year": "W24",
+        "description": "Every student's personalized learning assistant",
+        "tags": "Education",
+        "link": "https://www.ycombinator.com/companies/shepherd-2"
+    },
+    {
+        "name": "Sonauto",
+        "location": "",
+        "year": "W24",
+        "description": "Create hit songs with AI",
+        "tags": "Consumer, Content",
+        "link": "https://www.ycombinator.com/companies/sonauto"
+    },
+    {
+        "name": "BiteSight",
+        "location": "",
+        "year": "W24",
+        "description": "The video-first food delivery app. Imagine TikTok meets DoorDash.",
+        "tags": "Consumer, Social",
+        "link": "https://www.ycombinator.com/companies/bitesight"
+    },
+    {
+        "name": "Velorum Therapeutics",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Powerful cancer drugs that starve tumors",
+        "tags": "Healthcare, Therapeutics",
+        "link": "https://www.ycombinator.com/companies/velorum-therapeutics"
+    },
+    {
+        "name": "Zep AI",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "The Memory Foundation For Your AI Stack",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/zep-ai"
+    },
+    {
+        "name": "Amber AI",
+        "location": "",
+        "year": "W24",
+        "description": "Super app for kids",
+        "tags": "Education",
+        "link": "https://www.ycombinator.com/companies/amber-ai"
+    },
+    {
+        "name": "Thorntale",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Easiest way for post-sales teams to create data-driven presentations",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/thorntale"
+    },
+    {
+        "name": "Alai",
+        "location": "",
+        "year": "W24",
+        "description": "Create high quality presentations faster using AI",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/alai"
+    },
+    {
+        "name": "PocketPod",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI generated podcasts tailored to your interests",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/pocketpod"
+    },
+    {
+        "name": "Sample",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Flexible systems for clinical reasoning.",
+        "tags": "Healthcare, Healthcare IT",
+        "link": "https://www.ycombinator.com/companies/sample"
+    },
+    {
+        "name": "Brainbase",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI workflow automations for enterprise",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/brainbase"
+    },
+    {
+        "name": "Focal",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI video creation tool for TV shows and movies",
+        "tags": "Consumer, Content",
+        "link": "https://www.ycombinator.com/companies/focal"
+    },
+    {
+        "name": "Givefront",
+        "location": "",
+        "year": "W24",
+        "description": "Banking for Nonprofits",
+        "tags": "Fintech, Banking and Exchange",
+        "link": "https://www.ycombinator.com/companies/givefront"
+    },
+    {
+        "name": "Oma Care",
+        "location": "",
+        "year": "W24",
+        "description": "Get paid for taking care of your parents.",
+        "tags": "Healthcare, Healthcare Services",
+        "link": "https://www.ycombinator.com/companies/oma-care"
+    },
+    {
+        "name": "Ligo Biosciences",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI designed enzymes for the chemical industry.",
+        "tags": "Healthcare, Industrial Bio",
+        "link": "https://www.ycombinator.com/companies/ligo-biosciences"
+    },
+    {
+        "name": "Artos",
+        "location": "",
+        "year": "W24",
+        "description": "Turning science into regulatory submissions in minutes, not months.",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/artos"
+    },
+    {
+        "name": "Model ML",
+        "location": "London, England, United Kingdom",
+        "year": "W24",
+        "description": "AI Workspace for Financial Services.",
+        "tags": "B2B, Finance and Accounting",
+        "link": "https://www.ycombinator.com/companies/model-ml"
+    },
+    {
+        "name": "BetterBasket",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "The only all-in-one pricing system for grocers",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/betterbasket"
+    },
+    {
+        "name": "Circleback",
+        "location": "",
+        "year": "W24",
+        "description": "AI-powered meeting notes and automations",
+        "tags": "B2B, Productivity",
+        "link": "https://www.ycombinator.com/companies/circleback"
+    },
+    {
+        "name": "just words",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Scale hyper-personalized messaging with AI",
+        "tags": "B2B, Marketing",
+        "link": "https://www.ycombinator.com/companies/just-words"
+    },
+    {
+        "name": "ACX",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Therapeutics inspired by bacteria's natural killing abilities",
+        "tags": "Healthcare, Industrial Bio",
+        "link": "https://www.ycombinator.com/companies/acx"
+    },
+    {
+        "name": "Risotto",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Risotto auto-solves IT support requests using AI",
+        "tags": "B2B, Operations",
+        "link": "https://www.ycombinator.com/companies/risotto"
+    },
+    {
+        "name": "DianaHR",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "An AI-Powered HR Person",
+        "tags": "B2B, Human Resources",
+        "link": "https://www.ycombinator.com/companies/dianahr"
+    },
+    {
+        "name": "HeartByte",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "GenAI Webtoon. Creator write fictions 10x faster.",
+        "tags": "Consumer, Content",
+        "link": "https://www.ycombinator.com/companies/heartbyte"
+    },
+    {
+        "name": "Yondu",
+        "location": "Los Angeles, CA, USA",
+        "year": "W24",
+        "description": "Robots to Automate Fulfillment",
+        "tags": "Industrials, Manufacturing and Robotics",
+        "link": "https://www.ycombinator.com/companies/yondu"
+    },
+    {
+        "name": "dawn",
+        "location": "",
+        "year": "W24",
+        "description": "Analytics for AI products.",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/dawn"
+    },
+    {
+        "name": "Chunkr",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Open source API service to parse complex documents",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/chunkr"
+    },
+    {
+        "name": "Centauri AI",
+        "location": "",
+        "year": "W24",
+        "description": "The Modern ETL and Data Science Platform for Finance",
+        "tags": "Fintech, Asset Management",
+        "link": "https://www.ycombinator.com/companies/centauri-ai"
+    },
+    {
+        "name": "Manifold Freight",
+        "location": "Seattle, WA, USA",
+        "year": "W24",
+        "description": "Aggregating Spot Freight Opportunities for Carriers",
+        "tags": "B2B, Supply Chain and Logistics",
+        "link": "https://www.ycombinator.com/companies/manifold-freight"
+    },
+    {
+        "name": "edgetrace",
+        "location": "",
+        "year": "W24",
+        "description": "Find the moments that matter",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/edgetrace"
+    },
+    {
+        "name": "Clarum",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI-powered investment due diligence",
+        "tags": "B2B, Finance and Accounting",
+        "link": "https://www.ycombinator.com/companies/clarum"
+    },
+    {
+        "name": "Opencall.ai",
+        "location": "",
+        "year": "W24",
+        "description": "AI call centers for any business",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/opencall-ai"
+    },
+    {
+        "name": "Voicepanel",
+        "location": "",
+        "year": "W24",
+        "description": "Customer research on autopilot",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/voicepanel"
+    },
+    {
+        "name": "Petra Security",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Cybersecurity",
+        "tags": "B2B, Security",
+        "link": "https://www.ycombinator.com/companies/petra-security"
+    },
+    {
+        "name": "OffDeal",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "AI-native investment bank for small businesses",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/offdeal"
+    },
+    {
+        "name": "Cracked",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "AI Motion Graphics Copilot",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/cracked"
+    },
+    {
+        "name": "Andy AI",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Faster clinical documentation for home health nurses",
+        "tags": "Healthcare, Healthcare IT",
+        "link": "https://www.ycombinator.com/companies/andy-ai"
+    },
+    {
+        "name": "Hazel",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "AI-enabled procurement software for government",
+        "tags": "Government",
+        "link": "https://www.ycombinator.com/companies/hazel-2"
+    },
+    {
+        "name": "Shiboleth",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "Shiboleth automates lending compliance for financial institutions…",
+        "tags": "B2B, Security",
+        "link": "https://www.ycombinator.com/companies/shiboleth"
+    },
+    {
+        "name": "Aftercare",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Conversational AI surveys with intelligent follow-up questions",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/aftercare"
+    },
+    {
+        "name": "Soundry AI",
+        "location": "Seattle, WA, USA",
+        "year": "W24",
+        "description": "Professional Quality AI Music Creation",
+        "tags": "Consumer, Content",
+        "link": "https://www.ycombinator.com/companies/soundry-ai"
+    },
+    {
+        "name": "Elodin",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Unified flight software and hardware for the mission of tomorrow",
+        "tags": "Industrials, Aviation and Space",
+        "link": "https://www.ycombinator.com/companies/elodin"
+    },
+    {
+        "name": "Tensorfuse",
+        "location": "",
+        "year": "W24",
+        "description": "Run serverless GPUs on your own cloud",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/tensorfuse"
+    },
+    {
+        "name": "Toma",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI Workforce for Automotive Dealerships",
+        "tags": "B2B, Operations",
+        "link": "https://www.ycombinator.com/companies/toma"
+    },
+    {
+        "name": "Preloop",
+        "location": "",
+        "year": "W24",
+        "description": "Translate your experimental scripts into production ML services",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/preloop"
+    },
+    {
+        "name": "Superagent",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "The agent workspace",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/superagent"
+    },
+    {
+        "name": "Bilanc",
+        "location": "London, England, United Kingdom",
+        "year": "W24",
+        "description": "AI-powered Engineering Management",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/bilanc"
+    },
+    {
+        "name": "PySpur.dev",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Open Source AI Agents Builder",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/pyspur-dev"
+    },
+    {
+        "name": "Browser Buddy",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Librarian for the Internet",
+        "tags": "Consumer, Content",
+        "link": "https://www.ycombinator.com/companies/browser-buddy"
+    },
+    {
+        "name": "CodeAnt AI",
+        "location": "",
+        "year": "W24",
+        "description": "AI Code Reviewer",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/codeant-ai"
+    },
+    {
+        "name": "Draftaid",
+        "location": "Toronto, ON, Canada",
+        "year": "W24",
+        "description": "Go from 3D models to CAD drawings using AI",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/draftaid"
+    },
+    {
+        "name": "Metofico",
+        "location": "London, England, United Kingdom",
+        "year": "W24",
+        "description": "No Code Data Analysis for Life Science Research",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/metofico"
+    },
+    {
+        "name": "Ellipsis",
+        "location": "",
+        "year": "W24",
+        "description": "AI code reviews & bug fixes",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/ellipsis"
+    },
+    {
+        "name": "Dime",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "AI Data Engineer for Hardware Manufacturers",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/dime-2"
+    },
+    {
+        "name": "Lytix",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "DataDog for LLMs, turnkey solution for n=1 custom evaluations",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/lytix"
+    },
+    {
+        "name": "Open",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Enterprise AI customer support ecosystem.",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/open"
+    },
+    {
+        "name": "Aedilic",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI-assisted language learning",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/aedilic"
+    },
+    {
+        "name": "Centralize",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "The all-in-one deal workspace for high ACV revenue teams",
+        "tags": "B2B, Sales",
+        "link": "https://www.ycombinator.com/companies/centralize"
+    },
+    {
+        "name": "phospho",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "The fastest way to get started in AI robotics as an ML engineer",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/phospho"
+    },
+    {
+        "name": "Quantic Labs",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Automated data entry for CRM",
+        "tags": "B2B, Sales",
+        "link": "https://www.ycombinator.com/companies/quantic-labs"
+    },
+    {
+        "name": "Resonance",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Universal Add-On For Marketing Content Personalization",
+        "tags": "B2B, Marketing",
+        "link": "https://www.ycombinator.com/companies/resonance"
+    },
+    {
+        "name": "Firebender",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Android Studio Coding Assistant",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/firebender"
+    },
+    {
+        "name": "Aether Energy",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Solar and roofing workflow software for solar installers worldwide",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/aether-energy"
+    },
+    {
+        "name": "Fuse",
+        "location": "London, England, United Kingdom",
+        "year": "S24",
+        "description": "Boosting contracted revenue for US healthcare providers",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/fuse-2"
+    },
+    {
+        "name": "Kiosk",
+        "location": "Paris, Île-de-France, France",
+        "year": "W24",
+        "description": "WhatsApp Marketing for E-commerce",
+        "tags": "B2B, Marketing",
+        "link": "https://www.ycombinator.com/companies/kiosk"
+    },
+    {
+        "name": "Ragas",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Building the open source standard for evaluating LLM Applications",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/ragas"
+    },
+    {
+        "name": "PandasAI",
+        "location": "Munich, BY, Germany",
+        "year": "W24",
+        "description": "PandasAI is an open-source conversational data analysis platform with…",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/pandasai"
+    },
+    {
+        "name": "InQuery",
+        "location": "",
+        "year": "W24",
+        "description": "AI-Native Operating System for the Insurance Industry",
+        "tags": "Fintech, Insurance",
+        "link": "https://www.ycombinator.com/companies/inquery-2"
+    },
+    {
+        "name": "Markprompt",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI for customer support",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/markprompt"
+    },
+    {
+        "name": "Tamarind Bio",
+        "location": "",
+        "year": "W24",
+        "description": "Easy to use computational biology tools for drug discovery",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/tamarind-bio"
+    },
+    {
+        "name": "Clarion",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "Elevate patient communications with conversational AI",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/clarion"
+    },
+    {
+        "name": "Swift",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Embedded finance for online merchants",
+        "tags": "Fintech, Payments",
+        "link": "https://www.ycombinator.com/companies/swift-2"
+    },
+    {
+        "name": "Intercept",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Helping CPG brands automatically flag and dispute invalid retail fees",
+        "tags": "B2B, Retail",
+        "link": "https://www.ycombinator.com/companies/intercept"
+    },
+    {
+        "name": "Toolify",
+        "location": "Bengaluru, KA, India",
+        "year": "W24",
+        "description": "Build internal tools with AI",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/toolify"
+    },
+    {
+        "name": "Decipher AI",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI that analyzes your session replays to uncover issues and behavior.",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/decipher-ai"
+    },
+    {
+        "name": "Infinity AI",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Expressive characters that talk",
+        "tags": "Consumer, Content",
+        "link": "https://www.ycombinator.com/companies/infinity-ai"
+    },
+    {
+        "name": "Double",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Design Your Own Stock Index",
+        "tags": "Fintech, Asset Management",
+        "link": "https://www.ycombinator.com/companies/double-2"
+    },
+    {
+        "name": "Speck",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Paige, an AI Frontend Engineer",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/speck"
+    },
+    {
+        "name": "Guide Labs",
+        "location": "",
+        "year": "W24",
+        "description": "Interpretable AI systems",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/guide-labs"
+    },
+    {
+        "name": "OmniAI",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Automate document workflows",
+        "tags": "B2B, Operations",
+        "link": "https://www.ycombinator.com/companies/omniai"
+    },
+    {
+        "name": "Keywords AI",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "LLM monitoring platform for AI startups",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/keywords-ai"
+    },
+    {
+        "name": "PromptArmor",
+        "location": "",
+        "year": "W24",
+        "description": "LLM Security and Compliance",
+        "tags": "B2B, Security",
+        "link": "https://www.ycombinator.com/companies/promptarmor"
+    },
+    {
+        "name": "Zaymo",
+        "location": "",
+        "year": "W24",
+        "description": "Interactive email builder for ecommerce brands",
+        "tags": "B2B, Marketing",
+        "link": "https://www.ycombinator.com/companies/zaymo"
+    },
+    {
+        "name": "Glimmer",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI search for massive PDFs",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/glimmer"
+    },
+    {
+        "name": "Meticulate",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "The most powerful way to find, research, and track companies",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/meticulate"
+    },
+    {
+        "name": "CloudCruise",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "An API to trigger workflows in the browser",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/cloudcruise"
+    },
+    {
+        "name": "Attunement",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Automation workflow for psychiatric assessments.",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/attunement"
+    },
+    {
+        "name": "Lucite",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "Supercharging Insurance Brokers & Advisors",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/lucite"
+    },
+    {
+        "name": "Selera Medical",
+        "location": "Mountain View, CA, USA",
+        "year": "W24",
+        "description": "One-time, device-based treatment for heart failure",
+        "tags": "Healthcare, Medical Devices",
+        "link": "https://www.ycombinator.com/companies/selera-medical"
+    },
+    {
+        "name": "OneGrep",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "AI Agent for DevOps Workflow Automation",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/onegrep"
+    },
+    {
+        "name": "Engines",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Tools, context and sandboxes for AI SWEs",
+        "tags": "B2B, Recruiting and Talent",
+        "link": "https://www.ycombinator.com/companies/engines"
+    },
+    {
+        "name": "Tusk",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI agent that generates unit and integration tests",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/tusk"
+    },
+    {
+        "name": "PartnerHQ",
+        "location": "",
+        "year": "W24",
+        "description": "A marketplace for B2B businesses to buy warm intros.",
+        "tags": "B2B, Sales",
+        "link": "https://www.ycombinator.com/companies/partnerhq"
+    },
+    {
+        "name": "atopile",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "We make tools to design electronics circuit boards with code",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/atopile"
+    },
+    {
+        "name": "Copper Health",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Modern patient engagement and remote therapeutic monitoring platform",
+        "tags": "Healthcare, Healthcare IT",
+        "link": "https://www.ycombinator.com/companies/copper-health"
+    },
+    {
+        "name": "SynsoryBio",
+        "location": "Cambridge, MA, USA",
+        "year": "W24",
+        "description": "\"If-then\" conditional logic for protein drugs",
+        "tags": "Healthcare, Therapeutics",
+        "link": "https://www.ycombinator.com/companies/synsorybio"
+    },
+    {
+        "name": "Yoneda Labs",
+        "location": "",
+        "year": "W24",
+        "description": "Foundation Model for Chemical Manufacturing",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/yoneda-labs"
+    },
+    {
+        "name": "TokenOwl",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "AI portfolio tools for the next generation of finance",
+        "tags": "Fintech",
+        "link": "https://www.ycombinator.com/companies/tokenowl"
+    },
+    {
+        "name": "Verse Therapy",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Connecting All Ages with Speech Language Pathologists",
+        "tags": "Healthcare, Healthcare IT",
+        "link": "https://www.ycombinator.com/companies/verse-therapy"
+    },
+    {
+        "name": "Topo",
+        "location": "Paris, Île-de-France, France",
+        "year": "W24",
+        "description": "AI sales agent custom trained for each company to reach the best leads",
+        "tags": "B2B, Sales",
+        "link": "https://www.ycombinator.com/companies/topo"
+    },
+    {
+        "name": "Ecliptor",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI and Embeddings.",
+        "tags": "B2B, Sales",
+        "link": "https://www.ycombinator.com/companies/ecliptor"
+    },
+    {
+        "name": "Greenboard",
+        "location": "",
+        "year": "W24",
+        "description": "'Rippling' for Financial Compliance and Operations",
+        "tags": "Fintech",
+        "link": "https://www.ycombinator.com/companies/greenboard"
+    },
+    {
+        "name": "Eggnog",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "Youtube for AI-generated content",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/eggnog"
+    },
+    {
+        "name": "Simplex",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "Web automation for developers",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/simplex"
+    },
+    {
+        "name": "SuretyNow",
+        "location": "Austin, TX, USA",
+        "year": "W24",
+        "description": "The Modern Surety Bond Platform",
+        "tags": "Fintech, Insurance",
+        "link": "https://www.ycombinator.com/companies/suretynow"
+    },
+    {
+        "name": "Roe AI",
+        "location": "San Mateo, CA, USA",
+        "year": "W24",
+        "description": "Data warehouse to query unstructured data like docs, webs, imgs & more",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/roe-ai"
+    },
+    {
+        "name": "FurtherAI",
+        "location": "",
+        "year": "W24",
+        "description": "AI Workforce for the Insurance Industry",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/furtherai"
+    },
+    {
+        "name": "Arini",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI receptionist for dentists",
+        "tags": "Healthcare, Healthcare IT",
+        "link": "https://www.ycombinator.com/companies/arini"
+    },
+    {
+        "name": "Paradigm",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "A reimagined workspace with AI at its core",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/paradigm"
+    },
+    {
+        "name": "PointOne",
+        "location": "",
+        "year": "W24",
+        "description": "Automated time tracking and billing for law firms.",
+        "tags": "B2B, Legal",
+        "link": "https://www.ycombinator.com/companies/pointone"
+    },
+    {
+        "name": "Starlight Charging",
+        "location": "Austin, TX, USA",
+        "year": "W24",
+        "description": "Ultra-low-cost EV charging for condos and apartments",
+        "tags": "Industrials, Energy",
+        "link": "https://www.ycombinator.com/companies/starlight-charging"
+    },
+    {
+        "name": "Assembly",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Build Magical Customer Experiences",
+        "tags": "B2B, Operations",
+        "link": "https://www.ycombinator.com/companies/assembly-2"
+    },
+    {
+        "name": "MathDash",
+        "location": "",
+        "year": "W24",
+        "description": "Turning Math into a Sport",
+        "tags": "Education",
+        "link": "https://www.ycombinator.com/companies/mathdash"
+    },
+    {
+        "name": "Leaping",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Automate bug resolution",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/leaping"
+    },
+    {
+        "name": "Basalt",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Autonomy in space, for every mission",
+        "tags": "Industrials, Aviation and Space",
+        "link": "https://www.ycombinator.com/companies/basalt"
+    },
+    {
+        "name": "Carousel Technologies",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "Professional AI toolkit for PowerPoint",
+        "tags": "B2B, Finance and Accounting",
+        "link": "https://www.ycombinator.com/companies/carousel-technologies"
+    },
+    {
+        "name": "Agentic Labs",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "AI system design tools for dev teams",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/agentic-labs-2"
+    },
+    {
+        "name": "Fractal Labs",
+        "location": "",
+        "year": "W24",
+        "description": "AI powered UGC platform for RPGs",
+        "tags": "Consumer, Gaming",
+        "link": "https://www.ycombinator.com/companies/fractal-labs"
+    },
+    {
+        "name": "Pivot Robotics",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI for Robot Arms in Factories",
+        "tags": "Industrials, Manufacturing and Robotics",
+        "link": "https://www.ycombinator.com/companies/pivot-robotics"
+    },
+    {
+        "name": "Aidy",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Persistent research on the issues that drive key company decisions",
+        "tags": "B2B, Operations",
+        "link": "https://www.ycombinator.com/companies/aidy"
+    },
+    {
+        "name": "DGI Apparel",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "Expedia for ordering blank apparel",
+        "tags": "B2B, Supply Chain and Logistics",
+        "link": "https://www.ycombinator.com/companies/dgi-apparel"
+    },
+    {
+        "name": "Buster",
+        "location": "Salt Lake City, UT, USA",
+        "year": "W24",
+        "description": "Open source, AI Digital Workers for analytics & data",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/buster"
+    },
+    {
+        "name": "Garage",
+        "location": "",
+        "year": "W24",
+        "description": "Marketplace for used firefighting equipment.",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/garage-2"
+    },
+    {
+        "name": "Mango Health",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI Therapy for OCD",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/mango-health"
+    },
+    {
+        "name": "Argon AI, Inc.",
+        "location": "",
+        "year": "W24",
+        "description": "AI for Pharma Intelligence",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/argon-ai-inc"
+    },
+    {
+        "name": "nCompass Technologies",
+        "location": "Remote",
+        "year": "W24",
+        "description": "Deploy hardware accelerated AI models with only one line of code",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/ncompass-technologies"
+    },
+    {
+        "name": "Pretzel AI",
+        "location": "Berlin, Berlin, Germany",
+        "year": "W24",
+        "description": "Open-source & AI-native replacement for Jupyter Notebooks",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/pretzel-ai"
+    },
+    {
+        "name": "Apriora",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Your AI recruiter for interviewing and identifying the best talent",
+        "tags": "B2B, Recruiting and Talent",
+        "link": "https://www.ycombinator.com/companies/apriora"
+    },
+    {
+        "name": "malibou",
+        "location": "Paris, IDF, France",
+        "year": "W24",
+        "description": "the first all-in-one payroll and HR software for French SMBs",
+        "tags": "B2B, Human Resources",
+        "link": "https://www.ycombinator.com/companies/malibou"
+    },
+    {
+        "name": "Quary",
+        "location": "London, England, United Kingdom",
+        "year": "W24",
+        "description": "The first in-browser analytics engineering platform",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/quary"
+    },
+    {
+        "name": "Newton",
+        "location": "",
+        "year": "W24",
+        "description": "AI-powered phone platform for dentists",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/newton"
+    },
+    {
+        "name": "Tile",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "AI-first notebook for building operational data apps",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/tile"
+    },
+    {
+        "name": "Adagy Robotics",
+        "location": "",
+        "year": "W24",
+        "description": "Rescuing robots",
+        "tags": "Industrials, Manufacturing and Robotics",
+        "link": "https://www.ycombinator.com/companies/adagy-robotics"
+    },
+    {
+        "name": "Andon Labs",
+        "location": "",
+        "year": "W24",
+        "description": "Preparing the world for AGI",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/andon-labs"
+    },
+    {
+        "name": "Maia",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI relationship app that keeps couples together",
+        "tags": "Healthcare, Consumer Health and Wellness",
+        "link": "https://www.ycombinator.com/companies/maia"
+    },
+    {
+        "name": "Poka Labs",
+        "location": "San Francisco, CA, USA",
+        "year": "S24",
+        "description": "The modern operating system for chemical manufacturing.",
+        "tags": "B2B, Supply Chain and Logistics",
+        "link": "https://www.ycombinator.com/companies/poka-labs"
+    },
+    {
+        "name": "Nuanced",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Nuanced makes AI coding tools smarter with static analysis.",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/nuanced"
+    },
+    {
+        "name": "Precip",
+        "location": "Remote",
+        "year": "W24",
+        "description": "High precision AI weather models",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/precip"
+    },
+    {
+        "name": "Tracecat",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Open source Tines / Splunk SOAR alternative for security engineers.",
+        "tags": "B2B, Security",
+        "link": "https://www.ycombinator.com/companies/tracecat"
+    },
+    {
+        "name": "Sonia",
+        "location": "",
+        "year": "W24",
+        "description": "Conversational AI for Mental Health",
+        "tags": "Healthcare, Consumer Health and Wellness",
+        "link": "https://www.ycombinator.com/companies/sonia"
+    },
+    {
+        "name": "MAIHEM",
+        "location": "",
+        "year": "W24",
+        "description": "Industry-leading quality testing for mission critical AI",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/maihem"
+    },
+    {
+        "name": "ion design",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Your front end team in a box - Prompt to code & Figma to code",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/ion-design"
+    },
+    {
+        "name": "Duckie",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI Assistant for Customer Support Teams",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/duckie"
+    },
+    {
+        "name": "Happenstance",
+        "location": "Remote",
+        "year": "W24",
+        "description": "People search powered by AI",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/happenstance"
+    },
+    {
+        "name": "PurplePages",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Purple is an AI agent for online local marketplace transactions.",
+        "tags": "Consumer, Home and Personal",
+        "link": "https://www.ycombinator.com/companies/purplepages"
+    },
+    {
+        "name": "ego",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI-native 3D simulation engine",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/ego"
+    },
+    {
+        "name": "Scritch",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "AI operating system for veterinary care",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/scritch"
+    },
+    {
+        "name": "RadMate AI",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Copilot for radiologists",
+        "tags": "Healthcare",
+        "link": "https://www.ycombinator.com/companies/radmate-ai"
+    },
+    {
+        "name": "SSOReady",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Open source developer tools for enterprise single sign-on",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/ssoready"
+    },
+    {
+        "name": "Relari",
+        "location": "",
+        "year": "W24",
+        "description": "Testing and Simulation Stack for GenAI Systems",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/relari"
+    },
+    {
+        "name": "DryMerge",
+        "location": "",
+        "year": "W24",
+        "description": "Automate work with plain English.",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/drymerge"
+    },
+    {
+        "name": "Navier AI",
+        "location": "",
+        "year": "W24",
+        "description": "Real-Time CFD Simulations",
+        "tags": "Industrials, Aviation and Space",
+        "link": "https://www.ycombinator.com/companies/navier-ai"
+    },
+    {
+        "name": "Upsolve AI",
+        "location": "",
+        "year": "W24",
+        "description": "Customer-facing analytics as a service, powered by AI.",
+        "tags": "B2B, Analytics",
+        "link": "https://www.ycombinator.com/companies/upsolve-ai"
+    },
+    {
+        "name": "SciPhi",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "SciPhi is building R2R, the most advanced retrieval system.",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/sciphi"
+    },
+    {
+        "name": "Gumloop",
+        "location": "",
+        "year": "W24",
+        "description": "A no-code platform for automating workflows with AI",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/gumloop"
+    },
+    {
+        "name": "Lantern",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Postgres vector database extension to build AI applications",
+        "tags": "B2B",
+        "link": "https://www.ycombinator.com/companies/lantern-2"
+    },
+    {
+        "name": "jo",
+        "location": "Menlo Park, CA, USA",
+        "year": "W24",
+        "description": "jo is a voice-first digital personality that works alongside you…",
+        "tags": "Consumer",
+        "link": "https://www.ycombinator.com/companies/jo"
+    },
+    {
+        "name": "Yenmo",
+        "location": "Bengaluru, KA, India",
+        "year": "W24",
+        "description": "Secured consumer lending in India",
+        "tags": "Fintech, Credit and Lending",
+        "link": "https://www.ycombinator.com/companies/yenmo"
+    },
+    {
+        "name": "GovernGPT",
+        "location": "Toronto, ON, Canada",
+        "year": "W24",
+        "description": "AI Back Office for Fund Managers",
+        "tags": "Fintech",
+        "link": "https://www.ycombinator.com/companies/governgpt"
+    },
+    {
+        "name": "Arcane",
+        "location": "New York, NY, USA",
+        "year": "W24",
+        "description": "AI powered games",
+        "tags": "Consumer, Gaming",
+        "link": "https://www.ycombinator.com/companies/arcane"
+    },
+    {
+        "name": "Invaria",
+        "location": "London, England, United Kingdom",
+        "year": "S24",
+        "description": "The next generation logging and observability platform",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/invaria"
+    },
+    {
+        "name": "Fileforge",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "API For PDF Document Workflows",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/fileforge"
+    },
+    {
+        "name": "Abel",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Transforming document review for litigation teams",
+        "tags": "B2B, Legal",
+        "link": "https://www.ycombinator.com/companies/abel"
+    },
+    {
+        "name": "Celest",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "The Vercel of Flutter",
+        "tags": "B2B, Infrastructure",
+        "link": "https://www.ycombinator.com/companies/celest"
+    },
+    {
+        "name": "Blume Benefits",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "The AI copilot for health insurance brokers.",
+        "tags": "Fintech, Insurance",
+        "link": "https://www.ycombinator.com/companies/blume-benefits"
+    },
+    {
+        "name": "Patchwork",
+        "location": "San Francisco, CA, USA",
+        "year": "W24",
+        "description": "Your team’s AI powered communication tool",
+        "tags": "B2B, Productivity",
+        "link": "https://www.ycombinator.com/companies/patchwork"
+    },
+    {
+        "name": "Stitch Technologies",
+        "location": "London, England, United Kingdom",
+        "year": "W24",
+        "description": "-",
+        "tags": "B2B, Engineering, Product and Design",
+        "link": "https://www.ycombinator.com/companies/stitch-technologies"
+    }
+]
