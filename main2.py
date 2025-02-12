@@ -86,7 +86,8 @@ def extract_startups(html_content):
     
     return startup_data
 
-# Step 2: Scrape Individual Startup Pages
+
+# Step 2: Scrape Startup Pages
 def scrape_startup_pages(startup_list, progress_bar=None):
     progress = load_from_json(PROGRESS_FILE) or {"last_index": -1}
     last_index = progress.get("last_index", -1)
@@ -95,37 +96,77 @@ def scrape_startup_pages(startup_list, progress_bar=None):
     options.add_argument("--headless")
     driver = webdriver.Chrome(service=Service(CHROME_DRIVER_PATH), options=options)
     
+    scraped_pages = {}
     try:
         total_startups = len(startup_list)
         for i, startup in enumerate(startup_list):
             if i <= last_index:
                 continue  
-
             try:
                 driver.get(startup["link"])
                 time.sleep(3)
-                soup = BeautifulSoup(driver.page_source, "html.parser")
-                about_section = soup.find("div", class_="about")
-                about_text = about_section.text.strip() if about_section else "N/A"
-                
-                details = {"name": startup["name"], "about": about_text}
-                
-                existing_data = load_from_json(DETAILS_FILE)
-                existing_data.append(details)
-                save_to_json(existing_data, DETAILS_FILE)
-                
+                scraped_pages[startup["name"]] = driver.page_source
                 progress["last_index"] = i
                 save_to_json(progress, PROGRESS_FILE)
-                
                 if progress_bar:
                     progress_bar.progress((i + 1) / total_startups)
-                
             except (TimeoutException, WebDriverException) as e:
                 logging.error(f"Error scraping {startup['name']}: {e}")
                 break  
             time.sleep(1)
     finally:
         driver.quit()
+    save_to_json(scraped_pages, "scraped_pages.json")
+
+def extract_startup_details():
+    scraped_pages = load_from_json("scraped_pages.json")
+    if not scraped_pages:
+        logging.error("No startup pages found! Scrape them first.")
+        return []
+    
+    startup_details = []
+    for name, html_content in scraped_pages.items():
+        soup = BeautifulSoup(html_content, "html.parser")
+        
+        # Extract active status
+        active_status = "Inactive"
+        active_div = soup.find("div", class_="yc-tw-Pill", string=lambda text: text and "Active" in text)
+        if active_div:
+            active_status = "Active"
+
+        # Extract industries
+        industries = [a.text.strip() for a in soup.find_all("a", href=lambda href: href and "/companies/industry/" in href)]
+
+        # Extract location
+        location = None
+        location_tag = soup.find("a", href=lambda href: href and "/companies/location/" in href)
+        if location_tag:
+            location = location_tag.text.strip()
+        
+        
+        about_section = soup.find("div", class_="about")
+        about_text = about_section.text.strip() if about_section else "N/A"
+        startup_details.append({"name": name, "about": about_text})
+    save_to_json(startup_details, DETAILS_FILE)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Streamlit App
 st.title('YC Directory Scraper')
@@ -149,4 +190,8 @@ if os.path.exists(STARTUPS_FILE):
             scrape_progress = st.progress(0)
             scrape_startup_pages(startup_data, progress_bar=scrape_progress)
             scrape_progress.progress(1.0)
-            st.success(f"Finished scraping startup pages. Data saved to {DETAILS_FILE}")
+            st.success("Finished scraping startup pages!")
+    
+    if st.button("Extract Startup Details"):
+        extract_startup_details()
+        st.success(f"Extracted startup details successfully! Data saved to {DETAILS_FILE}")
