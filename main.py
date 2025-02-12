@@ -1,46 +1,39 @@
 import streamlit as st
-from scrape import (
-    scrape_website, 
-    extract_body_content,
-    save_to_json,
-    save_to_csv
-)
-from parseGem import parse_with_gemini
+from scrape import scrape_website, extract_startups, save_to_json, save_to_csv
 
 # Streamlit UI
-st.title('AI Web Scraper')
+st.title('YC Directory Scraper')
 url = st.text_input('Enter a Website URL: ')
 
-# Step 1: Scrape the Website
 if st.button("Scrape Website"):
     if url:
         st.write("Scraping the website...")
-
-        # Scrape the website
+        
+        # Scrape website and extract startup data
         dom_content = scrape_website(url)
-        body_content = extract_body_content(dom_content)
+        startup_data = extract_startups(dom_content)
 
-        # Save the scraped data locally
-        save_to_json(body_content, "scraped_data.json")
-        save_to_csv(body_content, "scraped_data.csv")
+        # Save data locally
+        save_to_json(startup_data, "startups.json")
+        save_to_csv(startup_data, "startups.csv")
 
-        # Store in Streamlit session state
-        st.session_state.dom_content = body_content
+        # Display extracted data
+        st.write(f"Extracted {len(startup_data)} startups.")
+        st.dataframe(startup_data)
 
-        # Display the DOM content
-        with st.expander("View DOM Content"):
-            st.text_area("DOM Content", body_content, height=300)
 
-# Step 2: Ask Questions About the DOM Content
-if "dom_content" in st.session_state:
-    parse_description = st.text_area("Describe what you want to parse")
+# LLM integration:
 
-    if st.button("Parse Content"):
-        if parse_description:
-            st.write("Parsing the content...")
+# # Step 2: Ask Questions About the DOM Content
+# if "dom_content" in st.session_state:
+#     parse_description = st.text_area("Describe what you want to parse")
 
-            # Parse the content with Gemini
-            parsed_result = parse_with_gemini(st.session_state.dom_content, parse_description)
+#     if st.button("Parse Content"):
+#         if parse_description:
+#             st.write("Parsing the content...")
+
+#             # Parse the content with Gemini
+#             parsed_result = parse_with_gemini(st.session_state.dom_content, parse_description)
             
-            st.write(parsed_result)
-            st.write("-- Parsing Done --")
+#             st.write(parsed_result)
+#             st.write("-- Parsing Done --")
