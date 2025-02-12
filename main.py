@@ -1,9 +1,9 @@
 import streamlit as st
 from scrape import (
     scrape_website, 
-    split_dom_content, 
-    clean_body_content, 
-    extract_body_content
+    extract_body_content,
+    save_to_json,
+    save_to_csv
 )
 from parseGem import parse_with_gemini
 
@@ -19,16 +19,18 @@ if st.button("Scrape Website"):
         # Scrape the website
         dom_content = scrape_website(url)
         body_content = extract_body_content(dom_content)
-        # cleaned_content = clean_body_content(body_content)
-        cleaned_content = body_content
 
-        # Store the DOM content in Streamlit session state
-        st.session_state.dom_content = cleaned_content
+        # Save the scraped data locally
+        save_to_json(body_content, "scraped_data.json")
+        save_to_csv(body_content, "scraped_data.csv")
 
-        # Display the DOM content in an expandable text box
+        # Store in Streamlit session state
+        st.session_state.dom_content = body_content
+
+        # Display the DOM content
         with st.expander("View DOM Content"):
-            st.text_area("DOM Content", cleaned_content, height=300)
-            
+            st.text_area("DOM Content", body_content, height=300)
+
 # Step 2: Ask Questions About the DOM Content
 if "dom_content" in st.session_state:
     parse_description = st.text_area("Describe what you want to parse")
@@ -37,12 +39,8 @@ if "dom_content" in st.session_state:
         if parse_description:
             st.write("Parsing the content...")
 
-            # Parse the content with Ollama
-            dom_chunks = split_dom_content(st.session_state.dom_content)
-            parsed_result = parse_with_gemini(dom_chunks, parse_description)
+            # Parse the content with Gemini
+            parsed_result = parse_with_gemini(st.session_state.dom_content, parse_description)
             
             st.write(parsed_result)
             st.write("-- Parsing Done --")
-            
-
-    
